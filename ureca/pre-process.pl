@@ -32,15 +32,24 @@ while ($readinline = <FILE>) {
             last;
         }
     }
-    
-    while ($readinline = <FILE>) {
-        if ($readinline =~ /^\n/) {
-            last;
+
+    $abstract = "";
+    $readinline = <FILE>;
+    if ($readinline =~ /^Author/) {
+        while ($readinline = <FILE>) {
+            if ($readinline =~ /^\n/) {
+                last;
+            }
         }
+    } else {
+        #here comes the abstract
+        $abstract = "Abstract - " . $readinline;
     }
-    
-    #here comes the abstract
-    $abstract = "Abstract";
+
+    if (length($abstract) == 0) {
+        $abstract .= "Abstract - ";
+    }
+
     while ($readinline = <FILE>) {
         if ($readinline=~ /^\n/) {
             last;
@@ -50,9 +59,12 @@ while ($readinline = <FILE>) {
     }
 
     #PMID
-    $readinline = <FILE>;
-    $readinline =~ /PMID: (\d+)/;
-    $pmid = $1;
+    while ($readinline = <FILE>) {
+        if ($readinline =~ /PMID: (\d+)/) {
+            $pmid = $1;
+            last;
+        }
+    }
     print "PMID - $pmid\n";
-    print $title . "\n" . $abstract . "\n"; 
+    print $title . "\n\n" . $abstract . "\n\n\n"; 
 }

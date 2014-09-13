@@ -1,6 +1,6 @@
 use warnings;
 
-$filename = "pubmed_result.txt";
+$filename = "pubmed_result (1).txt";
 open FILE, $filename or die "can't find file ".$filename;
 while ($readinline = <FILE>) {
     if ($readinline =~ /^\n/) {
@@ -65,6 +65,11 @@ while ($readinline = <FILE>) {
             last;
         }
     }
-    print "PMID - $pmid\n";
-    print $title . "\n\n" . $abstract . "\n\n\n"; 
+    if ($title =~ /Title - \[/) {
+        #artical not in english
+        #ignore
+    } else {
+        print "PMID - $pmid\n";
+        print $title . "\n\n" . $abstract . "\n\n\n";
+    }
 }

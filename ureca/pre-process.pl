@@ -1,7 +1,9 @@
 use warnings;
 
-$filename = "pubmed_result (1).txt";
-open FILE, $filename or die "can't find file ".$filename;
+binmode(STDOUT, ":utf8");
+
+$filename = "pubmed_result.txt";
+open FILE, "<:encoding(utf-8)", $filename or die "can't find file ".$filename;
 while ($readinline = <FILE>) {
     if ($readinline =~ /^\n/) {
         next;
@@ -65,11 +67,6 @@ while ($readinline = <FILE>) {
             last;
         }
     }
-    if ($title =~ /Title - \[/) {
-        #artical not in english
-        #ignore
-    } else {
-        print "PMID - $pmid\n";
-        print $title . "\n\n" . $abstract . "\n\n\n";
-    }
+    print "PMID - $pmid\n";
+    print $title . "\n\n" . $abstract . "\n\n\n"; 
 }

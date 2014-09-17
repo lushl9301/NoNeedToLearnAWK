@@ -1,4 +1,6 @@
 use warnings;
+use Lingua::EN::Sentence qw(get_sentences);
+use Unicode::Normalize 'normalize';
 
 binmode(STDOUT, ":utf8");
 
@@ -45,11 +47,7 @@ while ($readinline = <FILE>) {
         }
     } else {
         #here comes the abstract
-        $abstract = "Abstract - " . $readinline;
-    }
-
-    if (length($abstract) == 0) {
-        $abstract .= "Abstract - ";
+        $abstract .= $readinline;
     }
 
     while ($readinline = <FILE>) {
@@ -67,6 +65,17 @@ while ($readinline = <FILE>) {
             last;
         }
     }
+    if ($title =~ /Title - \[/) {
+        next;
+    }
     print "PMID - $pmid\n";
-    print $title . "\n\n" . $abstract . "\n\n\n"; 
+    my $sref = get_sentences($abstract);
+    foreach my $sentence (@$sref) {
+        #$sentence = normalize $sentence
+        if ($sentence =~ /heart rate[\w,\s]+age/gi) {
+            print $sentence . "\n";
+        }
+    }
+    print "\n\n";
+    #print $title . "\n\n" . $abstract . "\n\n\n"; 
 }

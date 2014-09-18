@@ -13,7 +13,7 @@ while ($readinline = <FILE>) {
     $PMID = $readinline;
     $readinline = <FILE>; #title here
     $readinline = <FILE>; #empty line
-    $abstract = <FILE>;
+    $abstract = <FILE>; #abstract here
 
     chomp($abstract);
     $counter = 0;
@@ -21,11 +21,20 @@ while ($readinline = <FILE>) {
     $useful = "";
     foreach my $sentence (@$sref) {
         #$sentence = normalize $sentence
+=pod
         if ($sentence =~ /^((?!heart rate).)*$|^((?!age).)*$/gi) {
             ;
         } else {
             $counter += 1;
             $useful .= $sentence . "\n";
+        }
+=cut
+        if ($sentence =~ /heart rate/i) {   #contains heart rate
+            if ($sentence =~ /(\s|^)(age|aging|aged|ages)(\s|\W)/i) {
+                #contains age/ageing/aged/ages
+                $counter += 1;
+                $useful .= $sentence . "\n";
+            }
         }
     }
     if ($counter > 0) {

@@ -69,13 +69,13 @@ while ($readinline = <FILE>) {
         next;
     }
     print "PMID - $pmid\n";
-    my $sref = get_sentences($abstract);
-    foreach my $sentence (@$sref) {
-        #$sentence = normalize $sentence
-        if ($sentence =~ /heart rate[\w,\s]+age/gi) {
-            print $sentence . "\n";
-        }
-    }
-    print "\n\n";
-    #print $title . "\n\n" . $abstract . "\n\n\n"; 
+    # my $sref = get_sentences($abstract);
+    # foreach my $sentence (@$sref) {
+    #     #$sentence = normalize $sentence
+    #     if ($sentence =~ /heart rate[\w,\s]+age/gi) {
+    #         print $sentence . "\n";
+    #     }
+    # }
+    # print "\n\n";
+    print $title . "\n\n" . $abstract . "\n\n\n"; 
 }

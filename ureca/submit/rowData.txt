@@ -1,0 +1,870 @@
+
+1. Technol Cancer Res Treat. 2014 Dec;13(6):593-603. doi:
+10.7785/tcrtexpress.2013.600256. Epub 2013 Aug 31.
+
+A novel technique for image-guided local heart irradiation in the rat.
+
+Sharma S(1), Moros EG, Boerma M, Sridharan V, Han EY, Clarkson R, Hauer-Jensen M,
+Corry PM.
+
+Author information: 
+(1)Department of Radiation Oncology, Radiation Oncology Center, University of
+Arkansas for Medical _Sciences, Little Rock, AR . ssharma@uams.edu.
+
+In radiotherapy treatment of thoracic, breast and chest wall tumors, the heart
+may be included (partially or fully) in the radiation field. As a result,
+patients may develop radiation-induced heart disease (RIHD) several years after
+exposure to radiation. There are few methods available to prevent or reverse RIHD
+and the biological mechanisms remain poorly understood. In order to further study
+the effects of radiation on the heart, we developed a model of local heart
+irradiation in rats using an image-guided small animal conformal radiation
+therapy device (SACRTD) developed at our institution. First, Monte Carlo based
+simulations were used to design an appropriate collimator. EBT-2 films were used 
+to measure relative dosimetry, and the absolute dose rate at the isocenter was
+measured using the AAPM protocol TG-61. The hearts of adult male Sprague-Dawley
+rats were irradiated with a total dose of 21 Gy. For this purpose, rats were
+anesthetized with isoflurane and placed in a custom-made vertical rat holder.
+Each heart was irradiated with a 3-beam technique (one AP field and 2 lateral
+fields), with each beam delivering 7 Gy. For each field, the heart was visualized
+with a digital flat panel X-ray imager and placed at the isocenter of the 1.8 cm 
+diameter beam. In biological analysis of radiation exposure, immunohistochemistry
+showed γH2Ax foci and nitrotyrosine throughout the irradiated hearts but not in
+the lungs. Long-term follow-up of animals revealed histopathological
+manifestations of RIHD, including myocardial degeneration and fibrosis. The
+results demonstrate that the rat heart irradiation technique using the SACRTD was
+successful and that surrounding untargeted tissues were spared, making this
+approach a powerful tool for in vivo radiobiological studies of RIHD. Functional 
+and structural changes in the rat heart after local irradiation are ongoing.
+
+PMCID: PMC3951712 [Available on 2014/12/1]
+PMID: 24000983  [PubMed - in process]
+
+
+2. Psychiatry Res. 2014 Nov 30;219(3):638-44. doi: 10.1016/j.psychres.2014.06.004.
+Epub 2014 Jun 9.
+
+Adaption of cardio-respiratory balance during day-rest compared to deep sleep-An 
+indicator for quality of life?
+
+von Bonin D(1), Grote V(2), Buri C(3), Cysarz D(4), Heusser P(4), Moser M(2),
+Wolf U(1), Laederach K(5).
+
+Author information: 
+(1)Institute of Complementary Medicine, University of Berne, Inselspital,
+Imhoof-Pavillon, 3010 Berne, Switzerland.
+(2)Institute of Physiology, Medical University of Graz, Austria and Human Research, 
+Institute for Health Technology and Prevention Research, Weiz, Austria.
+(3)Department of Endocrinology, Diabetology and Clinical Nutrition, Autonomic Lab,
+University Hospital Inselspital, University of Berne, Murtenstrasse 21, CH-3010
+Bern, Switzerland.
+(4)Chair for Theory of Medicine, Integrative and Anthroposophic Medicine, Faculty of
+Health, University of Witten/Herdecke, Germany.
+(5)Department of Endocrinology, Diabetology and Clinical Nutrition, Autonomic Lab,
+University Hospital Inselspital, University of Berne, Murtenstrasse 21, CH-3010
+Bern, Switzerland. Electronic address: kurt.laederach@dkf.unibe.ch.
+
+Heart rate and breathing rate fluctuations represent interacting physiological
+oscillations. These interactions are commonly studied using respiratory sinus
+arrhythmia (RSA) of heart rate variability (HRV) or analyzing cardiorespiratory
+synchronization. Earlier work has focused on a third type of relationship, the
+temporal ratio of respiration rate and heart rate (HRR). Each method seems to
+reveal a specific aspect of cardiorespiratory interaction and may be suitable for
+assessing states of arousal and relaxation of the organism. We used HRR in a
+study with 87 healthy subjects to determine the ability to relax during 5
+day-resting periods in comparison to deep sleep relaxation. The degree to which a
+person during waking state could relax was compared to somatic complaints,
+health-related quality of life, anxiety and depression. Our results show, that
+HRR is barely connected to balance (LF/HF) in HRV, but significantly correlates
+to the perception of general health and mental well-being as well as to
+depression. If relaxation, as expressed in HRR, during day-resting is near to
+deep sleep relaxation, the subjects felt healthier, indicated better mental
+well-being and less depressive moods.
+
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 25011731  [PubMed - in process]
+
+
+3. Appl Ergon. 2014 Nov;45(6):1705-11. doi: 10.1016/j.apergo.2014.06.002. Epub 2014 
+Jun 27.
+
+Comparing the physiological and perceptual responses of construction workers (bar
+benders and bar fixers) in a hot environment.
+
+Wong del PL(1), Chung JW(2), Chan AP(3), Wong FK(4), Yi W(5).
+
+Author information: 
+(1)Human Performance Laboratory, Technological and Higher Education Institute of
+Hong Kong, Room 313, 20A, Tsing Yi Road, Tsing Yi Island New Territories, Hong
+Kong, China. Electronic address: delwong@alumni.cuhk.net.
+(2)Department of Health and Physical Education, The Hong Kong Institute of
+Education, D4-2/F-03, Block D4, 10 Lo Ping Road, Tai Po, N.T., Hong Kong, China. 
+Electronic address: joannechung@ied.edu.hk.
+(3)Department of Building and Real Estate, Hong Kong Polytechnic University, Hung
+Hom, Kowloon, Hong Kong, China. Electronic address: albert.chan@polyu.edu.hk.
+(4)Department of Building and Real Estate, Hong Kong Polytechnic University, Hung
+Hom, Kowloon, Hong Kong, China. Electronic address: francis.wong@polyu.edu.hk.
+(5)Department of Building and Real Estate, Hong Kong Polytechnic University, Hung
+Hom, Kowloon, Hong Kong, China. Electronic address: yiwen96@163.com.
+
+This study aimed to (1) quantify the respective physical workloads of bar bending
+and fixing; and (2) compare the physiological and perceptual responses between
+bar benders and bar fixers. Field studies were conducted during the summer in
+Hong Kong from July 2011 to August 2011 over six construction sites. Synchronized
+physiological, perceptual, and environmental parameters were measured from
+construction rebar workers. The average duration of the 39 field measurements was
+151.1 ± 22.4 min under hot environment (WBGT = 31.4 ± 2.2 °C), during which
+physiological, perceptual and environmental parameters were synchronized. Energy 
+expenditure of overall rebar work, bar bending, and bar fixing were 2.57, 2.26
+and 2.67 Kcal/min (179, 158 and 186 W), respectively. Bar fixing induced
+significantly higher physiological responses in heart rate (113.6 vs.
+102.3 beat/min, p < 0.05), oxygen consumption (9.53 vs. 7.14 ml/min/kg,
+p < 0.05), and energy expenditure (2.67 vs. 2.26 Kcal/min, p < 0.05) (186 vs.
+158 W, p < 0.05) as compared to bar bending. Perceptual response was higher in
+bar fixing but such difference was not statistically significant. Findings of
+this study enable the calculation of daily energy expenditure of rebar work.
+
+Copyright © 2014 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+
+PMID: 24980679  [PubMed - in process]
+
+
+4. Appl Ergon. 2014 Nov;45(6):1504-9. doi: 10.1016/j.apergo.2014.04.011. Epub 2014
+May 6.
+
+The effect of pre-warming on performance during simulated firefighting exercise.
+
+Levels K(1), de Koning JJ(2), Mol E(3), Foster C(2), Daanen HA(4).
+
+Author information: 
+(1)MOVE Research Institute Amsterdam, Faculty of Human Movement Sciences, VU
+University Amsterdam, Van der Boechorststraat 9, 1081 BT Amsterdam, The
+Netherlands; TNO, PO Box 23, 3769 ZG Soesterberg, The Netherlands. Electronic
+address: K.Levels@vu.nl.
+(2)MOVE Research Institute Amsterdam, Faculty of Human Movement Sciences, VU
+University Amsterdam, Van der Boechorststraat 9, 1081 BT Amsterdam, The
+Netherlands; Department of Exercise and Sport Science, University of Wisconsin-La
+Crosse, 124 Mitchell Hall, La Crosse, WI 54601, USA.
+(3)Institute of Sport and Exercise Studies, HAN University of Applied Sciences,
+Professor Molkenboerstaat 3, 6524 RN Nijmegen, The Netherlands.
+(4)MOVE Research Institute Amsterdam, Faculty of Human Movement Sciences, VU
+University Amsterdam, Van der Boechorststraat 9, 1081 BT Amsterdam, The
+Netherlands; TNO, PO Box 23, 3769 ZG Soesterberg, The Netherlands.
+
+This study examined the effect of active pre-warming on speed and quality of
+performance during simulated firefighting exercise. Twelve male firefighters
+performed two trials in counterbalanced order. They were either pre-warmed by
+20-min cycling at 1.5 Watt kg(-)(1) body mass (WARM) or remained thermoneutral
+(CON) prior to a simulated firefighting activity. After the pre-warming,
+gastrointestinal temperature (P < 0.001), skin temperature (P = 0.002), and heart
+rate (P < 0.001) were higher in WARM than in CON. During the firefighting
+activity, rating of perceived exertion, thermal sensation and discomfort were
+higher for WARM than for CON. Finish time of the firefighting activity was
+similar, but the last task of the activity was completed slower in WARM than in
+CON (P = 0.04). In WARM, self-reported performance quality was lower than in CON 
+(P = 0.04). It is concluded that pre-warming reduces the speed during the last
+part of simulated firefighting activity and reduces self-reported quality of
+performance.
+
+Copyright © 2014 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+
+PMID: 24816137  [PubMed - in process]
+
+
+5. Appl Ergon. 2014 Nov;45(6):1433-8. doi: 10.1016/j.apergo.2014.04.008. Epub 2014
+May 3.
+
+Evaluation of two cooling systems under a firefighter coverall.
+
+Teunissen LP(1), Wang LC(2), Chou SN(2), Huang CH(2), Jou GT(2), Daanen HA(3).
+
+Author information: 
+(1)TNO, PO Box 23, 3769 ZG Soesterberg, The Netherlands.
+(2)Taiwan Textile Research Institute, No. 6, Chengtian Rd., Tucheng Dist., New
+Taipei City 23674, Taiwan, ROC.
+(3)TNO, PO Box 23, 3769 ZG Soesterberg, The Netherlands; MOVE Research Institute,
+Faculty of Human Movement Sciences, VU University Amsterdam, Van der
+Boechorststraat 9, 1081 BT Amsterdam, The Netherlands. Electronic address:
+hein.daanen@tno.nl.
+
+Firemen often suffer from heat strain. This study investigated two chest cooling 
+systems for use under a firefighting suit. In nine male subjects, a vest with
+water soaked cooling pads and a vest with water perfused tubes were compared to a
+control condition. Subjects performed 30 min walking and 10 min recovery in hot
+conditions, while physiological and perceptual parameters were measured. No
+differences were observed in heart rate and rectal temperature, but scapular skin
+temperature and fluid loss were lower using the perfused vest. Thermal sensation 
+was cooler for the perfused vest than for the other conditions, while the cool
+pad vest felt initially cooler than control. However, comfort and RPE scores were
+similar. We conclude that the cooling effect of both tested systems, mainly
+providing a (temporally) cooler thermal sensation, was limited and did not meet
+the expectations.
+
+Copyright © 2014 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+
+PMID: 24798511  [PubMed - in process]
+
+
+6. Appl Ergon. 2014 Nov;45(6):1475-83. doi: 10.1016/j.apergo.2014.04.003. Epub 2014 
+Apr 30.
+
+Estimating oxygen consumption from heart rate using adaptive neuro-fuzzy
+inference system and analytical approaches.
+
+Kolus A(1), Dubé PA(2), Imbeau D(2), Labib R(2), Dubeau D(3).
+
+Author information: 
+(1)Department of Mathematics and Industrial Engineering, Polytechnique Montréal,
+C.P. 6079, Succursale Centre-Ville, Montréal, Québec, Canada H3C 3A7. Electronic 
+address: akolus@uwaterloo.ca.
+(2)Department of Mathematics and Industrial Engineering, Polytechnique Montréal,
+C.P. 6079, Succursale Centre-Ville, Montréal, Québec, Canada H3C 3A7.
+(3)Ministère des Ressources Naturelles et de la Faune, Direction de la Recherche
+Forestière, Québec, Canada.
+
+In new approaches based on adaptive neuro-fuzzy systems (ANFIS) and analytical
+method, heart rate (HR) measurements were used to estimate oxygen consumption
+(VO2). Thirty-five participants performed Meyer and Flenghi's step-test (eight of
+which performed regeneration release work), during which heart rate and oxygen
+consumption were measured. Two individualized models and a General ANFIS model
+that does not require individual calibration were developed. Results indicated
+the superior precision achieved with individualized ANFIS modelling (RMSE = 1.0
+and 2.8 ml/kg min in laboratory and field, respectively). The analytical model
+outperformed the traditional linear calibration and Flex-HR methods with field
+data. The General ANFIS model's estimates of VO2 were not significantly different
+from actual field VO2 measurements (RMSE = 3.5 ml/kg min). With its ease of use
+and low implementation cost, the General ANFIS model shows potential to replace
+any of the traditional individualized methods for VO2 estimation from HR data
+collected in the field.
+
+Copyright © 2014 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+
+PMID: 24793823  [PubMed - in process]
+
+
+7. Cell Signal. 2014 Nov;26(11):2514-20. doi: 10.1016/j.cellsig.2014.07.030. Epub
+2014 Aug 2.
+
+Ablation of the GNB3 gene in mice does not affect body weight, metabolism or
+blood pressure, but causes bradycardia.
+
+Ye Y(1), Sun Z(1), Guo A(2), Song LS(2), Grobe JL(1), Chen S(3).
+
+Author information: 
+(1)Department of Pharmacology, Roy J. and Lucille A. Carver College of Medicine,
+University of Iowa, Iowa City, IA 52242, USA.
+(2)Department of Internal Medicine, Roy J. and Lucille A. Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA.
+(3)Department of Pharmacology, Roy J. and Lucille A. Carver College of Medicine,
+University of Iowa, Iowa City, IA 52242, USA; Department of Internal Medicine,
+Roy J. and Lucille A. Carver College of Medicine, University of Iowa, Iowa City, 
+IA 52242, USA. Electronic address: songhai-chen@uiowa.edu.
+
+G protein β3 (Gβ3) is an isoform of heterotrimeric G protein β subunits involved 
+in transducing G protein coupled receptor (GPCR) signaling. Polymorphisms in Gβ3 
+(GNB3) are associated with many human disorders (e.g. hypertension, diabetes and 
+obesity) but the role of GNB3 in these pathogeneses remains unclear. Here,
+Gβ3-null mice (GNB3(-/-)) were characterized to determine how Gβ3 functions to
+regulate blood pressure, body weight and metabolism. We found Gβ3 expression
+restricted to limited types of tissues, including the retina, several regions of 
+the brain and heart ventricles. Gβ3-deficient mice were normal as judged by body 
+weight gain by age or by feeding with high-fat diet (HFD); glucose tolerance and 
+insulin sensitivity; baseline blood pressure and angiotensin II infusion-induced 
+hypertension. During tail-cuff blood pressure measurements, however, Gβ3-null
+mice had slower heart rates (~450 vs ~500beats/min). This bradycardia was not
+observed in isolated and perfused Gβ3-null mouse hearts. Moreover, mouse hearts
+isolated from GNB3(-/-) and controls responded equivalently to muscarinic
+receptor- and β-adrenergic receptor-stimulated bradycardia and tachycardia,
+respectively. Since no difference was seen in isolated hearts, Gβ3 is unlikely to
+be involved directly in the GPCR signaling activity that controls heart pacemaker
+activity. These results demonstrate that although Gβ3 appears dispensable in mice
+for the regulation of blood pressure, body weight and metabolic features
+associated with obesity and diabetes, Gβ3 may regulate heart rate.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4160384 [Available on 2015/11/1]
+PMID: 25093805  [PubMed - in process]
+
+
+8. Res Dev Disabil. 2014 Nov;35(11):2773-80. doi: 10.1016/j.ridd.2014.07.020. Epub
+2014 Aug 2.
+
+Physical fitness and overweight in Israeli children with and without
+developmental coordination disorder: Gender differences.
+
+Lifshitz N(1), Raz-Silbiger S(2), Weintraub N(3), Steinhart S(4), Cermak SA(5),
+Katz N(6).
+
+Author information: 
+(1)Department of Occupational Therapy, Faculty of Health Professions, Ono Academic
+College, Israel. Electronic address: niritlif@gmail.com.
+(2)School of Occupational Therapy, Hebrew University Jerusalem, Israel; Alyn
+Hospital, Pediatric & Adolescent Rehabilitation Center, Jerusalem, Israel.
+(3)School of Occupational Therapy, Hebrew University Jerusalem, Israel.
+(4)Alyn Hospital, Pediatric & Adolescent Rehabilitation Center, Jerusalem, Israel.
+(5)Division of Occupational Science and Occupational Therapy, College of Health
+Professions, University of Southern California, LA, USA.
+(6)Research Institute for Health and Medical Professions, Ono Academic College,
+Israel.
+
+Physical fitness and overweight among children has become paramount in the
+general population and more so in children with developmental coordination
+disorder (DCD). The purpose of the current study was to examine the association
+between physical fitness and overweight in a sample of Israeli children in
+comparison to typical children, and to examine gender differences. DCD was
+identified through total scores on the movement assessment battery for children 2
+(MABC-2) equal to or less than the 16th percentile as well as parents' report
+that the child's deficits in motor skills interfered with at least two daily life
+activities. The sample included a group of children with DCD (n=22, M age=8.70
+[SD=1.36], 16 boys [73%]) and a control group of typical children (n=47, M
+age=8.90 [SD=1.52], 34 boys [72%]). Measures included the strength subtest of the
+Bruininks-Oseretsky test of motor proficiency (BOT-2), the six minutes' walk test
+(6MWT) with heart rate measure, BMI and the percentage of body fat. Significant
+differences between DCD and typical children were found on all variables of
+physical fitness and weight. A two-way analysis of variance (ANOVA) analysis
+(group/gender) also revealed significant interactions for the percentage of body 
+fat (F=8.51, p<.005) and BMI (F=4.50, p<.038) meaning that less fit children are 
+more obese. The current study supports previous findings that children with DCD
+are less physically fit and more overweight compared to typically developing
+children. Moreover, in comparing between the genders, the girls in the study
+sample weighed more and had a significantly higher percentage of body fat than
+boys, it is essential to further our understanding of the relationships between
+obesity, physical fitness and gender among children with and without DCD.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+PMID: 25086737  [PubMed - in process]
+
+
+9. Stat Med. 2014 Oct 15;33(23):4116-34. doi: 10.1002/sim.6220. Epub 2014 Jun 2.
+
+Latent time-varying factors in longitudinal analysis: a linear mixed hidden
+Markov model for heart rates.
+
+Lagona F(1), Jdanov D, Shkolnikova M.
+
+Author information: 
+(1)University of Roma Tre, Rome, Italy; Max Planck Institute for Demographic
+Research, Rostock, Germany.
+
+Longitudinal data are often segmented by unobserved time-varying factors, which
+introduce latent heterogeneity at the observation level, in addition to
+heterogeneity across subjects. We account for this latent structure by a linear
+mixed hidden Markov model. It integrates subject-specific random effects and
+Markovian sequences of time-varying effects in the linear predictor. We propose
+an expectationŰ-maximization algorithm for maximum likelihood estimation, based
+on data augmentation. It reduces to the iterative maximization of the expected
+value of a complete likelihood function, derived from an augmented dataset with
+case weights, alternated with weights updating. In a case study of the Survey on 
+Stress Aging and Health in Russia, the model is exploited to estimate the
+influence of the observed covariates under unobserved time-varying factors, which
+affect the cardiovascular activity of each subject during the observation period.
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+PMCID: PMC4159441 [Available on 2015/10/15]
+PMID: 24889355  [PubMed - in process]
+
+
+10. Eur J Med Chem. 2014 Oct 6;85:1-15. doi: 10.1016/j.ejmech.2014.07.081. Epub 2014 
+Jul 24.
+
+Discovery of oxazole and triazole derivatives as potent and selective S1P1
+agonists through pharmacophore-guided design.
+
+Tian Y(1), Jin J(2), Wang X(3), Hu J(2), Xiao Q(4), Zhou W(2), Chen X(2), Yin
+D(5).
+
+Author information: 
+(1)State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+Institute of Materia Medica, Peking Union Medical College and Chinese Academy of 
+Medical Sciences, Beijing 100050, PR China; Department of Medicinal Chemistry,
+Beijing Key Laboratory of Active Substances Discovery and Druggability
+Evaluation, Institute of Materia Medica, Peking Union Medical College and Chinese
+Academy of Medical Sciences, Beijing 100050, PR China.
+(2)State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+Institute of Materia Medica, Peking Union Medical College and Chinese Academy of 
+Medical Sciences, Beijing 100050, PR China.
+(3)State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+Institute of Materia Medica, Peking Union Medical College and Chinese Academy of 
+Medical Sciences, Beijing 100050, PR China; Department of Medicinal Chemistry,
+Beijing Key Laboratory of Active Substances Discovery and Druggability
+Evaluation, Institute of Materia Medica, Peking Union Medical College and Chinese
+Academy of Medical Sciences, Beijing 100050, PR China. Electronic address:
+wangxiaojian@imm.ac.cn.
+(4)Department of Medicinal Chemistry, Beijing Key Laboratory of Active Substances
+Discovery and Druggability Evaluation, Institute of Materia Medica, Peking Union 
+Medical College and Chinese Academy of Medical Sciences, Beijing 100050, PR
+China.
+(5)State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+Institute of Materia Medica, Peking Union Medical College and Chinese Academy of 
+Medical Sciences, Beijing 100050, PR China; Department of Medicinal Chemistry,
+Beijing Key Laboratory of Active Substances Discovery and Druggability
+Evaluation, Institute of Materia Medica, Peking Union Medical College and Chinese
+Academy of Medical Sciences, Beijing 100050, PR China. Electronic address:
+yindali@imm.ac.cn.
+
+We have discovered a series of triazole/oxazole-containing 2-substituted
+2-aminopropane-1,3-diol derivatives as potent and selective S1P1 agonists
+(prodrugs) based on pharmacophore-guided rational design. Most compounds showed
+high affinity and selectivity for S1P1 receptor. Compounds 19b, 19d and 19p
+displayed clear dose responsiveness in the lymphocyte reduction model when
+administered orally at doses of 0.3, 1.0, 3.0 mg/kg with reduced effect on heart 
+rate. These three compounds were also identified to have favorable
+pharmacokinetic properties.
+
+Copyright © 2014 Elsevier Masson SAS. All rights reserved.
+
+PMID: 25072873  [PubMed - in process]
+
+
+11. Age (Dordr). 2014 Oct;36(5):9706. doi: 10.1007/s11357-014-9706-4. Epub 2014 Aug
+23.
+
+Exercise training enhanced SIRT1 longevity signaling replaces the IGF1 survival
+pathway to attenuate aging-induced rat heart apoptosis.
+
+Lai CH(1), Ho TJ, Kuo WW, Day CH, Pai PY, Chung LC, Liao PH, Lin FH, Wu ET, Huang
+CY.
+
+Author information: 
+(1)Graduate Institute of Aging Medicine, China Medical University, Taichung, Taiwan.
+
+Cardiovascular disease is the second leading cause of death (9.1 %) in Taiwan.
+Heart function deteriorates with age at a rate of 1 % per year. As society ages, 
+we must study the serious problem of cardiovascular disease. SIRT1 regulates
+important cellular processes, including anti-apoptosis, neuronal protection,
+cellular senescence, aging, and longevity. In our previous studies, rats with
+obesity, high blood pressure, and diabetes exhibiting slowed myocardial
+performance and induced cell apoptosis were reversed via sports training through 
+IGF1 survival signaling compensation. This study designed a set of experiments
+with rats, in aging and exercise groups, to identify changes in myocardial cell
+signaling transduction pathways. Three groups of three different aged rats, 3,
+12, and 18 months old, were randomly divided into aging groups (C3, A12, and A18)
+and exercise groups (E3, AE12, and AE18). The exercise training consisted of
+swimming five times a week with gradual increases from the first week from 20 to 
+60 min for 12 weeks. After the sports training process was completed, tissue
+sections were taken to observe cell organization (hematoxylin and eosin (H&E)
+stain) and apoptosis (terminal deoxynucleotidyl transferase dUTP nick end
+labeling (TUNEL) assays) and to observe any changes in the myocardial tissues and
+proteins (Western blotting). The experimental results show that cardiomyocyte
+apoptotic pathway protein expression increased with age in the aging groups (C3, 
+A12, and A18), with improvement in the exercise group (E3, AE12, and AE18).
+However, the expression of the pro-survival p-Akt protein decreased significantly
+with age and reduced performance. The IGF1R/PI3K/Akt survival pathway in the
+heart of young rats can indeed be increased through exercise training. As rats
+age, this pathway loses its original function, even with increasing upstream
+IGF1. However, levels of SIRT1 and its downstream target PGC-1α were found to
+increase with age and compensatory performance. Moreover, exercise training
+enhanced the SIRT longevity pathway compensation instead of IGF1 survival
+signaling to improve cardiomyocyte survival.
+
+PMID: 25148910  [PubMed - in process]
+
+
+12. Am J Cardiol. 2014 Oct 1;114(7):1111-5. doi: 10.1016/j.amjcard.2014.07.027. Epub 
+2014 Jul 17.
+
+Effect of Peripheral Vascular Disease on Mortality in Cardiac Transplant
+Recipients (from the United Network of Organ Sharing Database).
+
+Silva Enciso J(1), Kato TS(2), Jin Z(3), Chung C(1), Yang J(4), Takayama H(4),
+Mancini DM(1), Schulze PC(5).
+
+Author information: 
+(1)Division of Cardiology, Department of Medicine, Columbia University Medical
+Center, New York, New York.
+(2)Division of Cardiology, Department of Medicine, Columbia University Medical
+Center, New York, New York; Heart Center, Juntendo University School of Medicine,
+Tokyo, Japan.
+(3)Department of Biostatistics, Mailman School of Public Health, Columbia University
+Medical Center, New York, New York.
+(4)Division of Cardiothoracic Surgery, Department of Surgery, Columbia University
+Medical Center, New York, New York.
+(5)Division of Cardiology, Department of Medicine, Columbia University Medical
+Center, New York, New York. Electronic address: pcs2121@cumc.columbia.edu.
+
+Peripheral vascular disease (PVD) portends increased morbidity and mortality in
+patients with heart failure. In those with advanced heart failure, heart
+transplantation (HT) is the only causative therapy to increase survival. However,
+little is known about the impact of symptomatic PVD on survival of HT recipients 
+in large multicenter cohorts. The aim of this study was to investigate an
+association between recipient symptomatic PVD and survival after HT. We analyzed 
+20,297 patients from the United Network of Organ Sharing data set. Survival
+analysis using a control cohort established by propensity matching was performed.
+There was an increased prevalence of traditional cardiovascular risk factors in
+711 patients with symptomatic PVD compared with 19,586 patients without PVD.
+Patients with pretransplant symptomatic PVD had increased post-transplant
+mortality compared with those without PVD (1-, 5- and 10-year survival rate 91.5%
+vs 94.9%, 74.8% vs 82.6%, 48.6% vs 54.7%, respectively, log-rank p <0.001). On
+multivariate analysis based on the propensity matching, factors associated with a
+lower survival rate were presence of PVD (hazard ratio 1.20, 95% confidential
+interval 1.02 to 1.42, p = 0.030), and female gender (hazard ratio 1.22, 95%
+confidence interval 1.02 to 1.47, p = 0.034). In conclusion, patients with
+symptomatic PVD have a lower survival rate after HT. Symptomatic PVD should be
+considered an independent risk factor for poor prognosis in patients undergoing
+HT evaluation.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25159237  [PubMed - in process]
+
+
+13. Am J Cardiol. 2014 Oct 1;114(7):1075-82. doi: 10.1016/j.amjcard.2014.07.019. Epub
+2014 Jul 17.
+
+Comparison of Hemodynamic Performance of the Balloon-Expandable SAPIEN 3 Versus
+SAPIEN XT Transcatheter Valve.
+
+Amat-Santos IJ(1), Dahou A(1), Webb J(2), Dvir D(2), Dumesnil JG(1), Allende
+R(1), Ribeiro HB(1), Urena M(1), Paradis JM(1), DeLarochellière R(1), Dumont
+E(1), Bergeron S(1), Thompson CR(2), Pasian S(1), Bilodeau S(1), Leipsic J(2),
+Larose E(1), Pibarot P(1), Rodés-Cabau J(3).
+
+Author information: 
+(1)Department of Cardiology, Quebec Heart and Lung Institute, Laval University,
+Quebec City, Quebec, Canada.
+(2)Department of Cardiology, St. Paul's Hospital, University of British Columbia,
+Vancouver, British Columbia, Canada.
+(3)Department of Cardiology, Quebec Heart and Lung Institute, Laval University,
+Quebec City, Quebec, Canada. Electronic address: josep.rodes@criucpq.ulaval.ca.
+
+The SAPIEN 3 valve (S3V) is a new-generation transcatheter valve with enhanced
+anti-paravalvular leak properties, but no data comparing with earlier
+transcatheter valve systems are available. We aimed to compare the hemodynamic
+performance of the S3V and the SAPIEN XT valve (SXTV) in a case-matched study
+with echo core laboratory analysis. A total of 27 patients who underwent
+transcatheter aortic valve replacement (TAVR) with the S3V were matched for
+prosthesis size (26 mm), aortic annulus area, and mean diameter measured by
+computed tomography, left ventricular ejection fraction, body surface area, and
+body mass index with 50 patients treated with the SXTV. The prosthesis size was
+determined by oversizing of 1% to 15% of annulus area. Doppler echocardiographic 
+images collected at baseline and 1-month follow-up were analyzed in a central
+echocardiography core laboratory. The need for postdilation was higher in the
+SXTV group (20% vs 4%, p = 0.047), and mean residual gradient and effective
+orifice area were similar in both groups (p >0.05). The incidence of paravalvular
+aortic regurgitation was greater with the SXTV (≥mild: 42%, moderate: 8%) than
+with the S3V (≥mild: 7%, moderate: 0%; p = 0.002 for ≥mild vs SXTV). The
+implantation of an S3V was the only factor associated with trace or no
+paravalvular leak after TAVR (p = 0.007). In conclusion, TAVR with the S3V was
+associated with a very low rate of paravalvular leaks and need for balloon
+postdilation, much lower than that observed with the earlier generation of
+balloon-expandable valve (SXTV). The confirmation of these results in a larger
+cohort of patients will represent a major step forward in using transcatheter
+valves for the treatment of aortic stenosis.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25132330  [PubMed - in process]
+
+
+14. Am J Cardiol. 2014 Oct 1;114(7):955-61. doi: 10.1016/j.amjcard.2014.05.069. Epub 
+2014 Jul 16.
+
+Comparison of the Efficacy of Pharmacoinvasive Management for ST-Segment
+Elevation Myocardial Infarction in Smokers Versus Non-Smokers (from the Trial of 
+Routine Angioplasty and Stenting After Fibrinolysis to Enhance Reperfusion in
+Acute Myocardial Infarction).
+
+Tan NS(1), Goodman SG(2), Cantor WJ(3), Tan MK(4), Yan RT(5), Bagnall AJ(6),
+Mehta SR(7), Fitchett D(1), Strauss BH(8), Yan AT(9); TRANSFER-AMI Investigators.
+
+Author information: 
+(1)Terrence Donnelly Heart Centre, St. Michael's Hospital, Toronto, Ontario, Canada;
+University of Toronto, Toronto, Ontario, Canada.
+(2)Terrence Donnelly Heart Centre, St. Michael's Hospital, Toronto, Ontario, Canada;
+University of Toronto, Toronto, Ontario, Canada; Canadian Heart Research Centre, 
+Toronto, Ontario, Canada.
+(3)University of Toronto, Toronto, Ontario, Canada; Southlake Regional Health
+Centre, Newmarket, Ontario, Canada.
+(4)Canadian Heart Research Centre, Toronto, Ontario, Canada.
+(5)University of Toronto, Toronto, Ontario, Canada.
+(6)The Freeman Hospital, Institute of Cellular Medicine, Newcastle University,
+Newcastle upon Tyne, United Kingdom.
+(7)Hamilton Health Sciences, McMaster University, Hamilton, Ontario, Canada.
+(8)University of Toronto, Toronto, Ontario, Canada; Sunnybrook Health Sciences
+Centre, Toronto, Ontario, Canada.
+(9)Terrence Donnelly Heart Centre, St. Michael's Hospital, Toronto, Ontario, Canada;
+University of Toronto, Toronto, Ontario, Canada. Electronic address: yana@smh.ca.
+
+Compared with non-smokers, cigarette smokers with ST-segment elevation myocardial
+infarctions derive greater benefit from fibrinolytic therapy. However, it is not 
+known whether the optimal treatment strategy after fibrinolysis differs on the
+basis of smoking status. The Trial of Routine Angioplasty and Stenting After
+Fibrinolysis to Enhance Reperfusion in Acute Myocardial Infarction (TRANSFER-AMI)
+randomized patients with ST-segment elevation myocardial infarctions to a routine
+early invasive (pharmacoinvasive) versus a standard (early transfer only for
+rescue percutaneous coronary intervention or delayed angiography) strategy after 
+fibrinolysis. The efficacy of these strategies was compared in 1,051 patients on 
+the basis of their smoking status. Treatment heterogeneity was assessed between
+smokers and non-smokers, and multivariable analysis was performed to evaluate for
+an interaction between smoking status and treatment strategy after adjusting for 
+baseline Global Registry of Acute Coronary Events (GRACE) risk score. Smokers
+(n = 448) were younger, had fewer cardiovascular risk factors, and had lower
+GRACE risk scores. They had a lower rate of the primary composite end point of
+30-day mortality, reinfarction, recurrent ischemia, heart failure, or cardiogenic
+shock and fewer deaths or reinfarctions at 6 months and 1 year. Smoking status
+was not a significant predictor of either primary or secondary end points in
+multivariable analysis. Pharmacoinvasive management reduced the primary end point
+compared with standard therapy in smokers (7.7% vs 13.6%, p = 0.04) and
+non-smokers (13.1% vs 19.7%, p = 0.03). Smoking status did not modify treatment
+effect on any measured outcomes (p >0.10 for all). In conclusion, compared with
+non-smokers, current smokers receiving either standard or early invasive
+management of ST-segment elevation myocardial infarction after fibrinolysis have 
+more favorable outcomes, which is likely attributable to their better baseline
+risk profile. The beneficial treatment effect of a pharmacoinvasive strategy is
+consistent in smokers and non-smokers.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25118119  [PubMed - in process]
+
+
+15. Ann Rheum Dis. 2014 Oct;73(10):1833-9. doi: 10.1136/annrheumdis-2013-203314. Epub
+2013 Jul 19.
+
+Evaluation of myocardial function in patients with rheumatoid arthritis using
+strain imaging by speckle-tracking echocardiography.
+
+Fine NM(1), Crowson CS(2), Lin G(1), Oh JK(1), Villarraga HR(1), Gabriel SE(2).
+
+Author information: 
+(1)Division of Cardiovascular Diseases, College of Medicine, Mayo Clinic, Rochester,
+Minnesota, USA.
+(2)Division of Rheumatology, Department of Medicine, College of Medicine, Mayo
+Clinic, Rochester, Minnesota, USA Division of Epidemiology, Department of Health 
+Sciences Research, College of Medicine, Mayo Clinic, Rochester, Minnesota, USA.
+
+OBJECTIVES: Patients with rheumatoid arthritis (RA) are at increased risk for
+cardiovascular disease (CVD), although strategies to detect subclinical CVD are
+poorly characterised. The purpose of this study was to assess myocardial function
+by speckle-tracking echocardiography strain imaging in patients with RA without
+known CVD.
+METHODS: Eighty-seven patients with RA selected from a population-based sample
+underwent echocardiography. Left ventricular (LV) and right ventricular (RV)
+longitudinal peak systolic strain were measured. A subset of 59 patients with RA 
+was compared with 59 age-, gender- and race-matched subjects with normal
+echocardiography and no CVD or risk factors.
+RESULTS: The mean ± SD age of the patients with RA and the normal patients was
+55.7±12.1 and 54.5±12.2 years (p=0.42), respectively, with 45 (76%) women in each
+group. Global LV strain (-15.7±3.2% vs -18.1±2.4%, p<0.001) and RV strain
+(-17.9±4.7% vs -20.7±2.4%, p<0.001) was reduced in patients with RA compared with
+normal patients. Among all 87 patients with RA the mean disease duration and
+C-reactive protein at echocardiography were 10.0±6.1 years and 3.5±3.7 mg/L, and 
+74% were seropositive. Adjusted univariate regression analysis demonstrated a
+significant correlation between global LV strain and RA Health Assessment
+Questionnaire disability index (p=0.032), and borderline associations with prior 
+use of oral corticosteroids (p=0.062) and methotrexate (p=0.054) after adjustment
+for age, gender, blood pressure, body mass index, heart rate and LV mass index.
+CONCLUSIONS: Global longitudinal LV and RV strain is reduced in patients with RA 
+compared with healthy patients. Strain abnormalities correlate with RA disease
+severity. Strain imaging by echocardiography may detect early myocardial
+dysfunction in RA.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+PMCID: PMC3895498 [Available on 2015/10/1]
+PMID: 23873875  [PubMed - in process]
+
+
+16. Arch Gynecol Obstet. 2014 Oct;290(4):635-41. doi: 10.1007/s00404-014-3256-y. Epub
+2014 May 6.
+
+Does minor trauma in pregnancy affect perinatal outcome?
+
+Garmi G(1), Marjieh M, Salim R.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Emek Medical Center, 18101, Afula,
+Israel.
+
+PURPOSE: To investigate pregnancy outcome after minor trauma and to identify risk
+factors at admission that may predict adverse pregnancy outcome.
+METHODS: A retrospective study held between January-2005 and December-2011.
+Pregnant women at 23 weeks or more, who were admitted due to minor trauma, were
+included. A standard protocol was applied: physical examination, lab tests and a 
+fetal heart rate monitoring (FHRM) and tocometer for 1 h. In cases of symptomatic
+women, abnormal FHRM or presence of uterine contractions, the length of
+monitoring was extended. All women were admitted for 24 h of observation. The
+primary outcome was a composite adverse outcome that included at least one of the
+following: placental abruption, preterm birth and birthweight <2,500 g. To
+investigate pregnancy outcome and identify risk factors that may predict
+pregnancy outcome, matched (1:2) non-trauma controls were included. Risk factors 
+examined included maternal obstetric variables, complaints at admission, clinical
+findings, lab test results, FHRM and tocometer findings.
+RESULTS: A total of 512 women with minor trauma and 1,024 non-trauma controls
+were included. Composite outcome occurred in 48 (9.4 %) and 131 (12.9 %) of the
+study and the control groups, respectively (p = 0.04; OR 0.71; 95 % CI,
+0.5-0.99). None of the parameters examined at admission predicted the occurrence 
+of the composite outcome.
+CONCLUSION: Pregnant women after minor trauma have a favorable pregnancy outcome.
+None of the parameters examined at admission were predictive of adverse outcome. 
+Extensive evaluation at admission and observation for 24 h are probably
+unnecessary following minor trauma, particularly for asymptomatic women.
+
+PMID: 24798932  [PubMed - in process]
+
+
+17. Biol Psychol. 2014 Oct;102:88-97. doi: 10.1016/j.biopsycho.2014.07.015. Epub 2014
+Jul 29.
+
+Factors influencing the role of cardiac autonomic regulation in the service of
+cognitive control.
+
+Capuana LJ(1), Dywan J(2), Tays WJ(1), Elmers JL(1), Witherspoon R(1), Segalowitz
+SJ(1).
+
+Author information: 
+(1)Department of Psychology, Brock University, St. Catharines, Ontario, Canada.
+(2)Department of Psychology, Brock University, St. Catharines, Ontario, Canada.
+Electronic address: jdywan@brocku.ca.
+
+Working from a model of neurovisceral integration, we examined whether adding
+response contingencies and motivational involvement would increase the need for
+cardiac autonomic regulation in maintaining effective cognitive control.
+Respiratory sinus arrhythmia (RSA) was recorded during variants of the Stroop
+color-word task. The Basic task involved "accepting" congruent items and
+"rejecting" words printed in incongruent colors (BLUE in red font); an added
+contingency involved rejecting a particular congruent word (e.g., RED in red
+font), or a congruent word repeated on an immediately subsequent trial.
+Motivation was increased by adding a financial incentive phase. Results indicate 
+that pre-task RSA predicted accuracy best when response contingencies required
+the maintenance of a specific item in memory or on the Basic Stroop task when
+errors resulted in financial loss. Overall, RSA appeared to be most relevant to
+performance when the task encouraged a more proactive style of cognitive control,
+a control strategy thought to be more metabolically costly, and hence, more
+reliant on flexible cardiac autonomic regulation.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 25079341  [PubMed - in process]
+
+
+18. Biol Psychol. 2014 Oct;102:44-50. doi: 10.1016/j.biopsycho.2014.07.012. Epub 2014
+Jul 21.
+
+The interaction between anxiety and depressive symptoms on brachial artery
+reactivity in cardiac patients.
+
+Mercer DA(1), Lavoie KL(2), Ditto B(3), Pelletier R(4), Campbell T(5), Arsenault 
+A(6), Bacon SL(7).
+
+Author information: 
+(1)Montreal Behavioural Medicine Centre, Hopital du Sacre-Coeur de Montreal, 5400
+Boulevard Gouin Ouest, Montreal, QC H4J 1C5, Canada; Research Centre, Montreal
+Heart Institute - A University of Montréal Affiliated Hospital, 5000, Rue
+Belanger, Montreal, QC H1T 1C8, Canada; Department of Psychology, McGill
+University, 1205 Dr. Penfield Avenue, Montreal, QC H3A 1B1, Canada.
+(2)Montreal Behavioural Medicine Centre, Hopital du Sacre-Coeur de Montreal, 5400
+Boulevard Gouin Ouest, Montreal, QC H4J 1C5, Canada; Research Centre, Montreal
+Heart Institute - A University of Montréal Affiliated Hospital, 5000, Rue
+Belanger, Montreal, QC H1T 1C8, Canada; Department of Psychology, University of
+Quebec at Montreal (UQAM), C.P. 8888 succursale Centre-ville, Montréal, QC H3C
+3P8, Canada.
+(3)Department of Psychology, McGill University, 1205 Dr. Penfield Avenue, Montreal, 
+QC H3A 1B1, Canada.
+(4)Research Institute of the McGill University Health Centre, 2155 Guy Street, 5th
+Floor, Montreal, QC H3H 2R9, Canada; Division of Clinical Epidemiology, McGill
+University Health Centre, 687, avenue des Pins Ouest, Montreal, QC H3A 1A1,
+Canada.
+(5)Department of Psychology, University of Calgary, 2500 University Dr. N.W.,
+Calgary, AB T2N 1N4, Canada.
+(6)Montreal Behavioural Medicine Centre, Hopital du Sacre-Coeur de Montreal, 5400
+Boulevard Gouin Ouest, Montreal, QC H4J 1C5, Canada; Research Centre, Montreal
+Heart Institute - A University of Montréal Affiliated Hospital, 5000, Rue
+Belanger, Montreal, QC H1T 1C8, Canada.
+(7)Montreal Behavioural Medicine Centre, Hopital du Sacre-Coeur de Montreal, 5400
+Boulevard Gouin Ouest, Montreal, QC H4J 1C5, Canada; Research Centre, Montreal
+Heart Institute - A University of Montréal Affiliated Hospital, 5000, Rue
+Belanger, Montreal, QC H1T 1C8, Canada; Department of Exercise Science, Concordia
+University, 7141 Sherbrooke Street West, Montreal, QC H4B 1R6, Canada. Electronic
+address: simon.bacon@concordia.ca.
+
+The association between anxiety, depression, and endothelial function (EF) was
+assessed in a sample of 295 cardiac outpatients (n=222 men; mean age=59).
+Patients were administered the Beck Depression Inventory-II and the State-Trait
+Anxiety Inventory, trait scale. EF was assessed through forearm hyperemic
+reactivity, a nuclear medicine variation of the flow-mediated dilatation
+technique, which calculates the rate of uptake ratio (RUR) between hyperaemic and
+non-hyperaemic arms. Neither effect of anxiety (F=1.40, p=.24) nor depression
+(F=2.66, p=.10) was found in a model predicting EF, however there was an
+interaction (F=4.11, p=.04). Higher anxiety and lower depressive symptoms were
+associated with superior RUR compared to lower anxiety and lower depressive
+symptoms. Anxiety had no influence on RUR in those patients with higher
+depressive symptoms, who generally displayed the lowest levels of RUR, i.e., poor
+function. It is speculative whether this potential protective role of anxiety may
+be guided by behavioral or physiological mechanisms.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 25058195  [PubMed - in process]
+
+
+19. Biol Psychol. 2014 Oct;102:68-72. doi: 10.1016/j.biopsycho.2014.07.009. Epub 2014
+Jul 17.
+
+Rated and measured impulsivity in children is associated with diminished cardiac 
+reactions to acute psychological stress.
+
+Bennett C(1), Blissett J(1), Carroll D(2), Ginty AT(3).
+
+Author information: 
+(1)School of Psychology, University of Birmingham, Birmingham, UK.
+(2)School of Sport, Exercise, and Rehabilitation Sciences, University of Birmingham,
+Birmingham, UK.
+(3)School of Sport, Exercise, and Rehabilitation Sciences, University of Birmingham,
+Birmingham, UK. Electronic address: a.t.ginty@bham.ac.uk.
+
+This study examined the association between impulsivity and heart rate reactions 
+to a brief psychological stress in pre-adolescent children. Impulsivity was
+assessed by two response inhibition tasks and maternal self-report. Heart rate
+was measured at rest and in response to a mental arithmetic challenge. Children
+high in impulsivity showed blunted cardiac stress reactions. This result
+resonates with previous findings that blunted stress reactivity is characteristic
+of a range of problematic behaviours often associated with impulsivity.
+
+Copyright © 2014. Published by Elsevier B.V.
+
+PMID: 25038303  [PubMed - in process]
+
+
+20. Blood Press. 2014 Oct;23(5):315-21. doi: 10.3109/08037051.2014.907978. Epub 2014 
+Jun 6.
+
+High-normal blood pressure, functional capacity and left heart mechanics: Is
+there any connection?
+
+Tadic M(1), Cuspidi C, Backovic S, Kleut M, Ivanovic B, Scepanovic R, Iracek O,
+Celic V.
+
+Author information: 
+(1)University Clinical Hospital Center "Dr Dragisa Misovic" , Heroja Milana Tepica
+1, 11000 Belgrade , Serbia.
+
+Abstract Objective. To evaluate the relationship between functional capacity and 
+left ventricular (LV) and left atrial (LA) myocardial deformation, assessed by
+two- and three-dimensional (2DE and 3DE) strain analysis, in subjects with
+high-normal blood pressure (BP). Methods. This cross-sectional study included 64 
+subjects with optimal BP and 75 subjects with high-normal BP of similar gender
+and age. All the subjects underwent a complete 2DE and 3DE examination and
+cardiopulmonary exercise testing. Results. 3DE global longitudinal strain was
+significantly lower in the group with high-normal BP than in the optimal BP group
+(- 20.1 ± 2.4 vs - 18.5 ± 2.3%, p < 0.001). Similar results were obtained for 3DE
+global circumferential strain (- 21.8 ± 2.6 vs - 19.3 ± 2.4%, p < 0.001), as well
+as for 3DE global radial strain (45.1 ± 8.8 vs 42.3 ± 7.2%, p = 0.042), and 3DE
+global area strain (- 30.1 ± 4.2 vs - 28.1 ± 3.8%, p < 0.001). LV twist was
+similar between the observed groups, whereas untwisting rate was significantly
+decreased in the subjects with high-normal BP (- 123 ± 30 vs - 112 ± 26°/s, p =
+0.023). Peak VO2 was significantly lower in the high-normal BP group (30.8 ± 4 vs
+28.3 ± 3.7 ml/kg/min, p < 0.001). 2DE LV ejection fraction (β = 0.38, p = 0.014),
+2DE global longitudinal strain (β = 0.35, p = 0.019) and 3DE global longitudinal 
+strain (β = 0.27, p = 0.042) were independently associated with peak VO2.
+Conclusion. LV and LA mechanics, as well as functional capacity are significantly
+impaired in the subjects with high-normal BP. LV and LA myocardial deformations
+are associated with peak oxygen uptake.
+
+PMID: 24906047  [PubMed - in process]

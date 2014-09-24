@@ -1,47 +1,39 @@
-('and', 5)
-('index', 3)
-('lv', 3)
-('with', 3)
-('p', 3)
-('global', 2)
-('strain', 2)
-('patient', 2)
-('ra', 2)
-('mass', 2)
-('heart', 1)
-('corticosteroid', 1)
-('conclus', 1)
-('ag', 1)
-('borderlin', 1)
-('rate', 1)
-('correl', 1)
-('in', 1)
-('', 1)
-('rv', 1)
-('compar', 1)
-('prior', 1)
-('associ', 1)
-('asignific', 1)
-('assessmentquestionnair', 1)
-('health', 1)
-('between', 1)
-('is', 1)
-('analysi', 1)
-('pressur', 1)
-('methotrex', 1)
-('after', 1)
-('adjustmentfor', 1)
-('bodi', 1)
-('healthi', 1)
-('blood', 1)
-('demonstr', 1)
-('reduc', 1)
-('longitudin', 1)
-('of', 1)
-('us', 1)
-('adjust', 1)
-('univari', 1)
-('gender', 1)
-('regress', 1)
-('oral', 1)
-('disabl', 1)
+p 3 ['p']
+lv 3 ['lv']
+index 3 ['index']
+strain 2 ['strain']
+ra 2 ['ra']
+patient 2 ['patients']
+mass 2 ['mass']
+global 2 ['global']
+us 1 ['use']
+univari 1 ['univariate']
+rv 1 ['rv']
+regress 1 ['regression']
+reduc 1 ['reduced']
+rate 1 ['rate']
+prior 1 ['prior']
+pressur 1 ['pressure']
+oral 1 ['oral']
+methotrex 1 ['methotrexate']
+longitudin 1 ['longitudinal']
+heart 1 ['heart']
+healthi 1 ['healthy']
+health 1 ['health']
+gender 1 ['gender']
+disabl 1 ['disability']
+demonstr 1 ['demonstrated']
+corticosteroid 1 ['corticosteroids']
+correl 1 ['correlation']
+conclus 1 ['conclusions']
+compar 1 ['compared']
+borderlin 1 ['borderline']
+bodi 1 ['body']
+blood 1 ['blood']
+associ 1 ['associations']
+assessmentquestionnair 1 ['assessmentquestionnaire']
+asignific 1 ['asignificant']
+analysi 1 ['analysis']
+ag 1 ['age']
+adjustmentfor 1 ['adjustmentfor']
+adjust 1 ['adjusted']

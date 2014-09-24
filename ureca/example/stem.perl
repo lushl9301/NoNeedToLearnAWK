@@ -120,8 +120,8 @@ while (<FILE>) {
         unless ( /^([a-zA-Z]+)(.*)/ ) { last; }
         $word = lc $1; # turn to lower case before calling:
         $_ = $2;
-        $word = stem($word);
-        print $word . "\n";
+        $stemmedWord = stem($word);
+        print $stemmedWord . ",$word\n";
         redo;
     }
 }

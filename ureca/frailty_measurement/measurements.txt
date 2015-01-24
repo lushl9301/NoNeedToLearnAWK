@@ -1,0 +1,846 @@
+MEASUREMENTS: Frailtywas defined using the Study of Osteoporotic Fractures Index, a parsimoniousversion of the physical phenotype (two of the following markers: weight loss,inability to rise five times from a chair, and exhaustion).
+Two frailty markersfrom non-physical dimensions were also evaluated: cognitive impairment (Mini-Cogscore < 3) and low serum albumin on ward admission (< 3,5 gr/dl).
+Logisticregression adjusted for preadmission and admission-related confounders was usedto investigate whether the physical phenotype of frailty and the two non-physicalmarkers were associated with ward length of stay and unfavorable discharge (deathplus any other ward discharge disposition different from direct return home).Areas Under the receiver operating characteristic Curve (AUCs) and LikelihoodRatios (LRs) were used for evaluation of discriminatory ability and clinicalusefulness of significant predictors.
+
+
+MEASUREMENTS:Regular use of sedative drugs determined according to the sedative load (SL)model, frailty phenotype status, and frailty deficit index (FI) score assessedusing validated, established protocols.
+
+
+MEASUREMENTS: Dietary TAC and food intakes were calculated using avalidated brief-type self-administered diet history questionnaire.
+The TAC valueof each food was assigned using four different assays, ferric reducing ability ofplasma (FRAP), oxygen radical absorbance capacity (ORAC), Trolox equivalentantioxidant capacity (TEAC), and total radical-trapping antioxidant parameter(TRAP).
+Frailty was defined as the presence three or more of the following fourcomponents: slowness and weakness (two points), exhaustion, low physicalactivity, and unintentional weight loss.
+
+
+MEASUREMENTS: A cognitive battery including MMSE,Montreal Cognitive Assessment, Color Trails Test, Cambridge Mental Disorders ofthe Elderly Examination memory and executive function subtests, 10-word recall,Sustained Attention to Response Task, and choice reaction time was used togenerate composite scores of cognitive domains.
+Frailty was assessed according toweakness, slowness, exhaustion, low physical activity, and weight loss.
+
+
+MEASUREMENTS:Bioimpedance analysis (BIA) was used to measure body composition at baseline and5 years later.
+Laboratory examination and comprehensive geriatric assessment wereperformed at both times.
+Lean mass index (LMI) was defined as total body leanmass/height(2) . A decrease of more than 5% in the LMI was considered to besignificant.
+Frailty status was defined using the Cardiovascular Health Studycriteria.
+
+
+MEASUREMENTS: At run-in phase of the protocol, clinical andfunctional screening included BMI, fasting plasma levels of protein (IL-6),spirometry, and standardized 6-minute walking test, measured at the start of therespiratory rehabilitation program.
+
+
+MEASUREMENTS: The self-rated 15-item Geriatric DepressionScale was used to assess symptoms of depression with a score of 6 or more atbaseline and 15-month follow-up.
+Participants underwent a structural interviewdesigned to obtain demographic factors and frailty status, and completedcognitive testing with the Mini-Mental State Examination and physical performancetesting with the Short Physical Performance Battery as potential predictors.RESULTS: At a 15-month follow-up survey, 226 participants (7.5%) reported thedevelopment of depressive symptoms.
+We found that frailty and poor self-ratedgeneral health (adjusted odds ratio 1.86, 95% confidence interval 1.30-2.66, P <.01) were independent predictors of incident depressive symptoms.
+The odds ratiofor depressive symptoms in participants with frailty compared with robustparticipants was 1.86 (95% confidence interval 1.05-3.28, P = .03) afteradjusting for demographic factors, self-rated general health, behavior, livingarrangements, Mini-Mental State Examination, Short Physical Performance Battery,and Geriatric Depression Scale scores at baseline.
+
+
+MEASUREMENTS: Frailty was defined asproposed by Fried and colleagues.
+Carotid intima-media thickness (IMT), diameterof the common carotid arteries, and the presence of plaques in both carotidarteries were determined using carotid Doppler ultrasonography.
+Multinomiallogistic regression models, including adjustment for traditional cardiovascularand dementia risk factors, were used to evaluate the independent associationbetween the central arterial structure and frailty.
+
+
+MEASUREMENTS: A home comprehensivegeriatric assessment including the FFP was conducted in participants who screenedpositive for frailty and in a limited sample of negative responders.
+
+
+MEASUREMENTS: We used the frailty criteria developed by theCardiovascular Health Study to define physical frailty.
+We divided the cohortinto nonfrail, prefrail, and frail according to frailty scores.
+Cognitive declineand memory decline were defined by using the Mini-Mental State Examination andScenery Picture Memory Test, respectively.
+Sarcopenia was defined according tothe diagnostic algorithm recommended by the Asian Working Group for Sarcopenia.RESULTS: In the multivariate logistic regression analysis by using non-frailparticipants as the reference, pre-frail elderly individuals were significantlymore likely to have sarcopenia than non-frail elderly individuals [odds ratio(OR): 2.77, 95% confidence interval (CI): 1.05-9.26], but not cognitive declineor memory decline.
+Frail elderly individuals were significantly more likely tohave cognitive decline (OR: 5.76, 95% CI: 1.20-27.6), memory decline (OR: 5.53,95% CI: 1.64-18.7) and sarcopenia (OR: 19.1, 95% CI: 3.73-98.0) than non-frailelderly individuals.
+
+
+MEASUREMENTS: Health and social service use, frailty, andhealth-related quality of life (EQ-5D) were measured over the 12-monthintervention period.
+The difference between the mean cost per person for 12months in the intervention and control groups (incremental cost) and the ratiobetween incremental cost and effectiveness were calculated.
+
+
+MEASUREMENTS: At baseline, the degree of MD adherence wasmeasured with the Mediterranean Diet Adherence Screener (MEDAS) score and theMediterranean Diet Score, also known as the Trichopoulou index.
+In 2012,individuals were reassessed to detect incident frailty, defined as having atleast 3 of the following criteria: exhaustion, muscle weakness, low physicalactivity, slow walking speed, and weight loss.
+The study associations weresummarized with odds ratios (OR) and their 95% confidence interval (CI) obtainedfrom logistic regression, with adjustment for the main confounders.
+
+
+MEASUREMENTS: Subjects were tested for physicalfunction (Short Physical Performance Battery, SPPB), balance (Berg Balance Scale,BBS), mobility (timed up-and-go, TUG), and walking speed under normal andcognitive dual-task conditions.
+
+
+MEASUREMENTS: Skeletal muscle mass was measured bybioelectrical impedance analysis.
+LMM was defined by low skeletal muscle index(SMI: muscle mass (kg)/[height (m)](2)).
+All participants were further dividedinto quartiles by serum selenium level and the risk for LMM among these quartileswas examined using multivariate logistic regression analyses.
+Estimated serumselenium levels for the LMM group vs the normal group and estimated SMI in thequartiles of serum selenium were computed by least square method in linearregression models.
+
+
+MEASUREMENTS: Medicare costs, utilizationevents, mortality.
+
+
+MEASUREMENTS: A reduced FEV1 wasdefined by a z-score less than -1.64 (<lower limit of normal), whereas PAD wasdefined by an ankle-brachial index less than 1.00.
+Exertional dyspnea was definedas moderate to severe (modified Borg index) immediately after a 400-meter walktest (400MWT).
+Exertional leg symptoms were established by the San DiegoClaudication Questionnaire.
+Physical inactivity was evaluated by percent ofaccelerometry wear-time with activity less than 100 counts per minute (topquartile established high sedentary time).
+Mobility was evaluated by the 400MWT(gait speed <0.8 m/s defined as slow) and SPPB (</= 7 defined moderate-to-severemobility impairment).
+
+
+MEASUREMENTS: Each participant was assigned four scores: a CFS scoreeach from a geriatric physician and nurse and a PPS score each from a palliativecare physician and nurse.
+Interrater reliability of each measure was calculatedusing kappa coefficients.
+For each measure, the mean of physician and nursescores was used to calculate every possible combination of CFS and PPS scores todetermine the combination with maximum agreement.
+
+
+MEASUREMENTS: Baseline measurements included demographics,comorbidity, frailty and nutritional status.
+Day 21 and day 180 immunogenicity(seroconversion rate, seroprotection rate, geometric mean titer [GMT] foldincrease in antibody titer) using hemagglutination-inhibition and adverse eventswere measured.
+Noninferiority and superiority of i.d. compared with i.m.vaccination in immunogenicity were analyzed.
+The study was registered onClinicalTrials.gov; identifier: NCT 01967368.
+
+
+MEASUREMENTS: Age, gender, institutionalization,frailty (Fried's criteria), previous disability in basic activities of dailyliving (BADL) (Barthel index), comorbidity (Charlson index), and multimorbidity(>/= 2 from 14 selected diseases) were recorded in the basal visit.
+The combinedevent of mortality or incident disability in BADL was determined in the follow-upvisit.
+The risk of presenting adverse events was determined by Kaplan-Meieranalysis and logistic regression adjusted for age, sex, and institutionalization.RESULTS: Mean follow-up 520 days.
+63 participants died (7.5%).
+Among theremaining 779, 191 lost at least one BADL (24.5%).
+The combined event ofmortality or disability was present in 254 participants (30.2%).
+Age (OR 1.10,95%CI 1.06-1.14), frailty (OR 3.07, 95%CI 1.63-5.77), disability (OR 2.19, 95%CI1.43-3.36) and institutionalization (OR 2.73, 95%CI 1.68-4.44) were independentlyassociated with the combined adverse event, but not comorbidity ormultimorbidity.
+In subjects younger than 80, only frailty, disability andinstitutionalization were risk factors, and in those aged >/= 80, only age,disability and institutionalization were.
+
+
+MEASUREMENTS: Monthly longitudinal data wasarranged according to five health states (incarceration, drug treatment,abstinence, non-daily and daily use).
+We fitted proportional hazards (PH) frailtymodels to determine independent differences in successive episode durations.
+Wethen executed multi-state Markov (MSM) models to estimate probabilities oftransitioning between health states, and the determinants of these transitions.FINDINGS: Across primary drug use types, PH frailty models demonstrated durationsof daily use diminished in successive episodes over time.
+MSM models revealedprimary stimulant users had more erratic longitudinal patterns of drug use,transitioning more rapidly between periods of treatment, abstinence, non-dailyand daily use.
+MA users exhibited relatively longer durations of high-frequencyuse.
+Criminal engagement had a destabilizing effect on health state durationsacross drug types.
+Longer incarceration histories were associated with delayedtransitions toward cessation.
+
+
+MEASUREMENTS: Outcomes includedactivity of daily living (ADL) and instrumental ADL difficulties at 3 and 9 yearsand 9-year mortality.
+Frailty measures included the FRAIL, SOF, and CHS scalesand the FI.
+
+
+MEASUREMENTS: Three trials of the 3-ounce waterswallowing test, swallowing function questionnaire, and frailty status.
+
+
+MEASUREMENTS: BMI, WC and MNA-SF wererecorded at the basal visit of the FRADEA Study.
+Incident disability in BADL wasdefined as loss of the ability to perform bathing, grooming, dressing, toiletuse, or feeding from basal to follow-up visit, using the Barthel index.
+Theassociation between nutritional status and nutritional risk with incident BADLdisability was determined by Kaplan-Meier analysis and logistic regressionadjusted for age, sex, basal function, comorbidity, cognitive decline, depressionrisk and frailty status.
+
+
+MEASUREMENTS: MNA(R)-SF was used to investigatemalnutrition (<7 points) and patients at risk of malnutrition (8 to 11 points).By using the SHARE-FI, subjects were classified as frail, pre-frail or robust.
+Afactor analysis was applied to identify overlaps between the MNA(R)-SF andSHARE-FI items.
+Internal consistency of different dimensions was assessed byusing Cronbach's Alpha.
+
+
+MEASUREMENTS: We identified 7 frailty dimensions (energybalance-nutrition, physical activity, nervous system, vascular system, strength,endurance, and gait speed) represented by 12 items.
+Each item was pondered basedon the quintiles of its distribution in the study population.
+Validity wasevaluated by testing its association with factors related to frailty and itspredictive value for adverse events.
+This predictive capacity was furthercompared with the capacity of 2 well-established frailty models (the frailtyphenotype and the Frailty Index).
+
+
+MEASUREMENTS: Measurementsincluded age, gender, socioeconomic status, living areas, use of annual healthexaminations, comorbid conditions, use of influenza vaccine, frailty as definedby the Adjusted Clinical Group, hospitalization, and mortality in the observationperiod.
+The efficacy was presented as comparing ever versus never vaccinatedpeople during the entire study period without regard to seasons.
+
+
+MEASUREMENTS: A generalized linearinteractive risk prediction model included demographic and clinicalcharacteristics (mental health and chronic medical conditions, frailty-relateddiagnoses, number of medications) in FY05; incident HRME in FY06 before indexhospitalization or readmission; chronic HRME in FY05; and FY05 emergencydepartment (ED), hospital, geriatric, palliative, or primary care use.Facility-level variables were complexity, rural versus urban, and FY06 admissionrate.
+
+
+MEASUREMENT: Dynapeniccomponent of the EWGSOP sarcopenia was defined as usual gait speed <0.8 m/s orgrip strength lower than cut-off value (male <25.3 kg, female <12.0 kg).
+Obesitywas defined as body mass index >/=27.5 kg/m(2).
+ADL were assessed using theBarthel index.
+
+
+MEASUREMENTS: Restricting fatigue wasdefined as staying in bed for at least half the day and/or cutting down on one'susual activities because of fatigue for 3 consecutive months or longer.
+Physicalfrailty was defined on the basis of slow gait speed, and depression was assessedusing the Center for Epidemiologic Studies Depression Scale.
+
+
+MEASUREMENTS: Objective mobility was assessedaccording to a 4-m timed walk at normal pace conducted in the respondent's home;slow walking speed was defined according to the Fried frailty criteria (lowestquintile of walking speed, adjusted for age and height).
+Self-reported mobilitydifficulty was assessed according to a question about ability to walk 1 km; thisresponse was dichotomized into any versus no self-reported difficulty walking 1km (reference no difficulty).
+The age- (5-year groups) and sex-specificprobability of self-reporting difficulty walking 1 km was estimated in those witha measured slow walk using logistic regression.
+
+
+MEASUREMENTS: Frailty rate and transitions between frailty statesfrom hospital discharge to 3 months after discharge using Fried's phenotypecriteria categorized as nonfrail (0 or 1 criteria present), prefrail (2 or 3criteria present), and frail (4 or 5 criteria present).
+
+
+MEASUREMENTS: risk factors for falls were measured using thePhysiological Profile Assessment (PPA) and mobility measures at 12 months by ablinded assessor.
+Falls were monitored with calendars.
+
+
+MEASUREMENTS:Registrar of Vital Statistics-established 5-year mortality.
+Noncancer pain wasassessed using the 5-point verbal descriptor scale, dichotomized into no or verymild versus moderate, severe, or very severe pain.
+Frailty was the accumulationof health deficits.
+Cognitive status (Modified Mini-Mental State Examination) anddepressed mood (five-item mental health screening questionnaire) were alsoassessed.
+Multivariable logistic regression and Cox proportional hazards wereused to analyze the relationship between pain and 5-year mortality.
+
+
+MEASUREMENTS: The frailty phenotype (based on Fried criteria) wasdetermined at baseline, depressive symptoms (Geriatric Depression Scale >/= 5) atbaseline and follow-ups at 2 and 4 years.
+
+
+MEASUREMENTS: Linear regression was used to estimate the associationbetween total and appendicular lean mass and plasma P3NP, and quadriceps strengthand P3NP.
+
+
+MEASUREMENTS: all frailty datacollected routinely as part of a CGA were used to create the FI-CGA.
+Mortalitydata were reviewed from hospital records, claims data, Social Security DeathIndex and interviews with Discharge Managers.
+
+
+MEASUREMENTS: Risk factors(age, sex, family history of diabetes, body mass index, waist circumference,systolic and diastolic blood pressure, antihypertensive and corticosteroidtreatments, history of high blood glucose, smoking status, physical activity,consumption of fruits and vegetables, fasting glucose, HDL-cholesterol, andtriglycerides) were used to construct the risk algorithms.
+Frailty, assessedduring a resurvey in 2007-2009, was denoted by the presence of 3 or more of thefollowing indicators: self-reported exhaustion, low physical activity, slowwalking speed, low grip strength, and weight loss; "prefrailty" was defined ashaving 2 or fewer of these indicators.
+
+
+MEASUREMENTS: Frailty was operationalized using SHARE data based onthe Groningen Frailty Indicator, the Tilburg Frailty Indicator, a 70-item FrailtyIndex (FI), a 44-item FI based on a Comprehensive Geriatric Assessment (FI-CGA),the Clinical Frailty Scale, frailty phenotype (weighted and unweighted versions),the Edmonton Frail Scale, and the FRAIL scale.
+
+
+MEASUREMENTS: Frailty wasdefined according to a set of criteria derived from a definition previouslydescribed and validated.
+
+
+MEASUREMENTS: Ethnic group was classified using avalidated algorithm.
+Hazard ratios (HRs) for mortality were estimated using Coxproportional hazards models with age, sex, ethnic group, education, income,frailty, diabetes mellitus with and without complications, comorbidity,cognition, depressive symptoms, and body mass index included as predictors insequential models.
+
+
+MEASUREMENTS:Dual energy X-ray absorptiometry, muscle strength and power, physical performancemeasures.
+
+
+MEASUREMENTS: Frailty, comorbidity, and disability on enrollment inthe study and subsequent mortality and hospitalizations.
+
+
+MEASUREMENTS: Eachparticipant underwent detailed physical and cognitive testing to assess frailtyand MCI.
+We considered the frailty phenotype to be characterized by limitationsin 3 or more of the following 5 domains: mobility, strength, endurance, physicalactivity, and nutrition.
+Screening for MCI included a standardized personalinterview, the Mini-Mental State Examination, and the National Center forGeriatrics and Gerontology-Functional Assessment Tool (NCGG-FAT), which included8 tasks used to assess logical memory (immediate and delayed recognition), wordlist memory (immediate and delayed recall), attention and executive function(tablet version of Trail Making Test-part A and B), processing speed (tabletversion of digit symbol substitution test), and visuospatial skill (figureselection).
+
+
+MEASUREMENTS: Survival analyses were used toexamine whether scores on the 9-item Physical Performance Test (PPT) predictedtime to DAT diagnosis.
+Cox proportional hazards models were used to examineassociations between PPT total scores and time to cognitive impairment and DAT;as well as the association between time and these events, adjusting for andsimultaneously testing the effects of age, sex, education, and presence of one ormore apolipoprotein (APOE) epsilon4 alleles.
+
+
+MEASUREMENTS: Frailty was defined on the basisof five characteristics: weight loss, weakness, slowness, exhaustion, and lowlevel of physical activity.
+Participants with three or more characteristics wereclassified as frail, with one or two as prefrail, and with zero as nonfrail.
+Oralhealth measures were number of teeth, use of dental prostheses, need for dentalprostheses, presence of decayed teeth, clinical attachment loss of 4 mm orgreater, and periodontal pocket of 4 mm or greater.
+Data on sociodemographic(age, sex, and schooling) and general health (number of self-reported chronicdiseases and smoking status) data were assessed.
+
+
+MEASUREMENTS:Elder abuse was assessed using the 12-item Vulnerability to Abuse Screening Scale(VASS) subscales: vulnerability, coercion, dependence, and dejection.
+Outcomeswere death and disability (defined as an affirmative response to "Do youregularly need help with daily tasks because of long-term illness, disability orfrailty?").
+
+
+MEASUREMENTS: Frailty was defined according to Fried et al. aspresence of three, pre-frailty as presence of one or two of the followingcriteria: weight loss, exhaustion, low physical activity, low handgrip strengthand slow walking speed.
+Malnutrition (<17 points) and the risk of malnutrition(17-23.5 points) were determined by MNA(R).
+
+
+MEASUREMENTS: Components offrailty (slowness and weakness, poor endurance and exhaustion, physical activity,and unintentional weight loss) at baseline and report of fracture, disability,and recurrent falls at 1 year of follow-up were investigated.
+Women also reportedhealth and demographic characteristics at baseline.
+
+
+MEASUREMENTS: Fatty acid levels, frailty assessment, handgrip strength, 8 foot walk, body composition, medical history and co-morbidities,nutrient intake, and inflammatory biomarkers taken at baseline and 6 months.RESULTS: At baseline, those with greater red blood cell (RBC) DHA andDHA/arachidonic acid (AA) presented with less frailty (r = -0.242, p=0.007 and r= -0.254, p=0.004, respectively).
+Fish oil supplementation resulted in higher RBCDHA and lower AA compared to baseline and placebo (p<0.001) and an improvement inwalking speed compared to placebo (3.0+/-16 vs. -3.5+/-14, p=0.038).
+A linearregression model included age, antioxidant intake (selenium and vitamin C),osteoarthritis, frailty phenotype, and tumor necrosis factor alpha (TNFalpha).The model explained 13.6% of the variance in the change in walking speed.
+Changein DHA/AA (p=0.01) and TNFalpha (p=0.039), and selenium intake (p=0.031) had thegreatest contribution to change in walking speed.
+
+
+MEASUREMENTS: NCS was defined as acombined score of <18 on the pattern comparison test (<11 is abnormal) and lettercomparison test (<7 is abnormal).
+Frailty was defined from a modified Phenotypemodel, the Edmonton Frailty Scales (EFS) and a frailty index (FI); the latter twowere adapted here to exclude cognitive measures.
+
+
+MEASUREMENTS: Frailty status was determined using Fried'sfrailty criteria and nutritional status by the MNA and MNA-SF.
+Optimal cut-offscores to predict frailty were determined by Youden's Index, Receiver OperatorCurves (ROC) and area under curve (AUC).
+
+
+MEASUREMENTS: Mortality, BADL and mobility using the Barthel Index, andIADL using the Lawton IADL Index, were recorded.
+BADL disability was defined asloss of the ability to perform bathing, grooming, dressing, toilet use, orfeeding, while deterioration of mobility was defined as loss of ability toperform transfers, walk, or use stairs, and IADL disability as losing any of theactivities included in the Lawton Index.
+The risk of presenting adverse eventswas determined by Cox and Kaplan-Meier proportional hazard analysis and logisticregression adjusted for age, sex, function, and comorbidity.
+
+
+MEASUREMENTS: We examined stimulus-response dynamicsof free fatty acids (FFA), gut- (ghrelin,GLP-1) and adipocyte-derived hormones(leptin, adiponectin, resistin), growth hormone (GH), insulin-like growth factor1 (IGF-1), and interleukin-6 (IL-6) at 0, 30, 60, 120, and 180-minutes after a75-g glucose challenge according to frailty status (non-frail, pre-frail, orfrail).
+
+
+MEASUREMENTS: Frailty wasoperationalized using modified Fried frailty criteria.
+Criteria were categorizedaccording to quintiles (lowest-quintile approach) or using population-independentcutpoints derived from the literature (population-independent approach).Agreement and construct validity of frailty classification according to bothapproaches were evaluated according to weighted kappa (kappa) and Spearman rankcorrelation (r(Sp) ).
+Associations between frailty and covariates were assessedusing multiple logistic regression models.
+
+
+MEASUREMENTS: Age, sex, comorbidity, presence ofcognitive and mood disorders, residence, and primary diagnostic group atdischarge.
+Outcomes were death up to 36 months from admission, any readmission,and readmission for ill-defined conditions up to 36 months after discharge.RESULTS: There were significant differences in death rates between the diagnosticgroups, with mortality being highest in individuals with a primary diagnosis ofcancer and lowest in the ill-defined conditions group.
+Nearly 83% of theill-defined conditions group survived the follow-up period.
+Adjusted Coxproportional hazard models indicated that, when age, sex, comorbidity, residence,and cognitive and mood disorders were accounted for, the ill-defined conditiongroup had a lower risk of death but a higher risk of subsequent readmissions forill-defined conditions than any other group.
+Overall readmission risk was highestfor individuals admitted for a respiratory condition but was similar in all otherdiagnostic groups.
+
+
+MEASUREMENTS: Hazard ratios (HRs) forfrailty, disability, and all-cause mortality.
+Frailty was defined as presence ofthree out of the following five attributes: weight loss, weakness, exhaustion,low physical activity, and slow gait.
+The predictive validity of the WWT was alsocompared with that of the Short Physical Performance Battery (SPPB) for studyoutcomes.
+
+
+MEASUREMENTS: Frailty was assessed according to an adaptation of Fried'scriteria (shrinking, weakness, exhaustion, slowness, and low activity, threecriteria needed for the diagnosis of frailty, 1 to 2 for prefrailty).
+Otheroutcomes were diseases diagnosed by a doctor (>/= 2 chronic diseases:comorbidity) and limitations in activities of daily living (ADLs, basic andinstrumental).
+
+
+MEASUREMENTS:Primary predictor variables were first postoperative Braden Scale score (within24 hours of surgery) and a Deficit Accumulation Index (DAI) constructed based on39 available preoperative variables.
+The primary outcome was presence or absenceof complication within 30 days of surgery.
+
+
+MEASUREMENTS: Glycosylated hemoglobin(HbA1c) at baseline, categorized as less than 5.5%, 5.5% to 5.9%, 6.0% to 6.4%,6.5% to 7.9%, and 8.0% and greater, was the independent variable.
+The incidenceof frailty and lower extremity mobility limitations (based on self-reportedwalking difficulty, walking speed, and Short Performance Physical Battery score)was determined (follow-up approximately 9 years).
+Frailty was assessed using theCardiovascular Health Study criteria.
+Covariates included demographiccharacteristics, body mass index, interleukin-6 level, and clinical history ofcomorbidities.
+Statistical analyses included Kaplan-Meier survival curves and Coxregression models adjusted for important covariates.
+
+
+MEASUREMENTS: In thestudies that were found, frailty and prefrailty were measured according tophysical phenotype and broad phenotype, the first defining frailty as a purelyphysical condition and the second also including psychosocial aspects.
+
+
+MEASUREMENTS: Perceived fatigabilityseverity was quantified by directly asking participants to report change inenergy after a standardized 10-minute walk at a self-selected pace.
+Performancefatigability severity was defined as a ratio of change in walking speed to totaldistance walked.
+The walk test was repeated within 2 weeks to assess stability.Total daily physical activity (PA) was measured over 7 consecutive days using awaist-worn accelerometer.
+Frailty was measured using the Vulnerable Elders Surveyinterview scale, and gait speed was measured using a standardized 25-feet walktest.
+
+
+MEASUREMENTS: The 5-item FRAIL scale (fatigue,resistance, ambulation, illnesses, and loss of weight), at baseline andactivities of daily living (ADLs), instrumental activities of daily living(IADLs), mortality, short physical performance battery (SPPB), gait speed,one-leg stand, grip strength and injurious falls at baseline and 9 years.
+Bloodtests for CRP, SIL6R, STNFR1, STNFR2 and 25 (OH) vitamin D at baseline.
+
+
+MEASUREMENTS: All participantsunderwent an extensive health examination.
+Frailty was diagnosed according toCardiovascular Health Study criteria.
+Associations between frailty andparticipant characteristics were investigated using multivariate logisticregression analysis.
+
+
+MEASUREMENTS: The feasibility of the GFI was assessed bydetermining the proportion of missing values per item.
+The internal consistencyreliability of the GFI was established by calculating the KR-20.
+Mann-Whitney andKruskal-Wallis tests were applied to assess discrimination between specificsubgroups (known group validity).
+Convergent and discriminant validity wasassessed using Spearman Rank correlations between GFI and diseases and disorders,case complexity, and health care needs (INTERMED), life satisfaction (CantrilLadder of Life), activities of daily living (Katz), quality of life (EQ-5D), andmental health (SF-36).
+Finally, we used multivariate regression analyses toevaluate the cutoff score of the GFI (<4 versus >/=4).
+
+
+MEASUREMENTS: Eight geriatricsyndromes (multiple definitions) and survival.
+
+
+MEASUREMENTS: Antidepressant use wasassessed through medication container inspection at baseline.
+Four groups werecreated according to baseline use and Burnam depression screen (range 0-1, 0.06cutoff): antidepressant nonusers without depressive symptoms (reference group),antidepressant nonusers with depressive symptoms, antidepressant users withoutdepressive symptoms, and antidepressant users with depressive symptoms.
+Frailtycomponents included slowness or weakness, exhaustion, low physical activity, andunintended weight loss, ascertained through self-report and physical measurementsat baseline and Year 3.
+
+
+MEASUREMENTS:Main outcome measures included physical activity (the PASE questionnaire),functional tests, nutritional and autonomy scores, and compliance (50% or morewas considered satisfactory).
+Non-parametric methods were used for comparisonsbetween the two groups.
+A linear regression model was fitted to assess the effectof the intervention on the relative variation of outcomes, adjusted forunbalanced baseline co-variables.
+
+
+MEASUREMENTS: Identifiers, triage, clinical and social dataalong with the administration of ISAR.
+CGA was performed using: Charlson Index,Short Portable Mental Status Questionnaire and Katz's ADL.
+Follow-up data at 30and 180 days included: mortality, ED revisit, hospital admission, and functionaldecline.
+Frailty was defined according to a brief DAI.
+Logistic regressionevaluated the consistency of the frailty definition; ROC curves evaluated ISARability in identifying frailty.
+
+
+MEASUREMENTS: Cognitive impairment determined by ascore in the MMSE < 21.
+Frailty defined as three or more of the followingcomponents: 1) weight-loss, 2) weakness, 3) self-reported exhaustion, 4) slowwalking speed, and 5) low physical activity level.
+Sociodemographiccharacteristics and chronic medical conditions were used as covariates.
+Mortalitywas determined using the National Death Index or by proxy.
+
+
+MEASUREMENTS: Five frailty characteristics (weight loss, exhaustion,weakness, slowness, and low physical activity), frailty score (0-5), and overallfrailty state (nonfrail = 0 characteristics, prefrail = 1 or 2, frail = >/= 3)were assessed at baseline.
+Transitions (progressed, regressed, or no change) wereassessed for frailty score and state.
+Odds ratios (ORs) of progression andregression in individual characteristics were estimated using generalizedestimating equations adjusted for age, sex, ethnic group, socioeconomic status,comorbidity, diabetes, and follow-up interval.
+
+
+MEASUREMENTS: Subjective and objectivemeasures of functional status were evaluated using the Physical Performance Test(PPT), the graded treadmill test, knee strength, gait speed, balance, and theFunctional Status Questionnaire (FSQ).
+Body composition was evaluated usingdual-energy X-ray absorptiometry (DXA) and magnetic resonance imaging (MRI).RESULTS: Sixty percent (25/40) of the participants met standard criteria forphysical frailty.
+Frail (FR) and nonfrail (NF) participants were comparable inage, sex, CD4 count, and viral load.
+FR HOA had greater impairments in PPT, peakoxygen uptake, FSQ, walking speed, balance, and muscle quality than NF HOA.
+FRHOA had a greater body mass index (BMI), fat mass, and truncal fat withlipodystrophy.
+Moreover, PPT score was inversely related to trunk fat(correlation coefficient (r) = -0.34; P = .04) and ratio of intermuscular fat tototal fat (r = -0.60; P = .02) after adjusting for covariates.
+
+
+MEASUREMENTS: Serum 25(OH)D concentrationsmeasured at baseline; frailty state (robust, prefrail, frail) assessed atbaseline and 3 and 6 years after enrollment; and vital status determined 3 and 6years after enrollment.
+
+
+MEASUREMENTS: Assessment of the CHS frailty criteria, the Brief CognitiveScreening Battery (memorization of 10 black and white pictures, verbal fluencyanimal category, and the Clock Drawing Test) and the Mini-Mental StateExamination (MMSE).
+
+
+MEASUREMENTS: Diabetes, hypertension, stroke, heart disease, cognitiveimpairment, smoking, physical activity, waist hip ratio (WHR) and ankle-brachialindex (ABI)) were recorded.
+Physical frailty measurements (grip-strength,chair-stands, stride length and 6-metre walks) were summarized into a compositefrailty score (0-20), 0 being the most frail) according to quartiles ofperformance.
+Appendicular muscle mass (ASM) was measured using dual X-rayabsorptiometry.
+Relationships between the score and covariates were analyzed.
+Coxregression was used to study the impact of metabolic and atnerosclerotic riskfactors on the relationship between physical frailty and 6-year mortality.RESULTS: After adjustment for ASM, all metabolic diseases and indexes, andcognitive impairment were significantly associated with the composite physicalfrailty score in univariate analysis.
+In multivariate analysis, cognitiveimpairment, high WHR, diabetes, stroke and heart disease were all independentlyassociated with higher physical frailty with adjustment for age, physicalactivity level and ASM.
+Hypertension was associated with physical frailty in menbut not in women.
+In Cox regression, increased physical frailty was associatedwith higher 6-year mortality.
+The impact of metabolic and atherosclerotic riskfactors was however only modest after adjustment for age and cognitive function.CONCLUSION: Metabolic and atherosclerotic diseases and high WHR, was associatedwith physical frailty, independent of their adverse effect on cognitive functionand muscle mass.
+
+
+MEASUREMENTS: Pain (exposure) wascategorized as no or very mild pain versus moderate or greater pain.
+Frailty(outcome) was operationalized as the accumulation of 33 possible self-reportedhealth attitudes, illnesses, and functional abilities, subsequently divided intotertiles (not frail, prefrail, and frail).
+Multivariable logistic regressionassessed for the association between pain and frailty.
+
+
+MEASUREMENTS: Serum samples were assayed for levels of CMVimmunoglobulin (Ig)G antibodies, interleukin (IL)-6, and C-reactive protein.Measures of functional impairment were the Physical Performance Battery,Activities of Daily Living, and the Mini-Mental State Examination.
+Frailty wasassessed using the Fried criteria.
+
+
+MEASUREMENTS: Circulating thyrotropin (TSH) and free thyroxine(FT(4) ) were assayed.
+Frailty was assessed as >/=3 of the Fatigue, Resistance,Ambulation, Illnesses and Loss (FRAIL) scale's 5 domains: fatigue; resistance(difficulty climbing flight of stairs); ambulation (difficulty walking 100 m);illness (>5); or weight loss (>5%), blinded to hormone results.
+
+
+MEASUREMENTS: Grip strength (GS) was recorded continuously duringsustained maximal contraction until exhaustion.
+Fatigue resistance (FR) wasexpressed as the time during which GS drops to 50% of its maximum.
+Grip work (GW)was estimated as GW=GS*0.75*FR, and compared to the measured GW.
+In the elderlyparticipants, relationships (controlling for age and physical activity) of GS,FR, GW and GW corrected for body weight (GW/BW) with dependency (Katz-scale) andinflammation (circulating IL-6 and TNF-alpha) were analyzed.
+
+
+MEASUREMENTS: Four frailty indexes (Winograd; Rockwood; Donini; andSchoevaerdts) reflecting the multidimensionality of the frailty concept, using anordinal scoring system able to discriminate different grades of frailty, andconstructed based on the accumulation of identified deficits after comprehensivegeriatric assessment conducted during the first week of hospital stay, were usedto categorize participants into three different grades of frailty: G1 - notfrail; G2 - moderately frail; and G3 - severely frail.
+Comparisons between groupswere performed using Fisher's exact test.
+Agreement between indexes was evaluatedusing Cohen's Kappa coefficient.
+
+
+MEASUREMENT: The appendicular muscle mass (ASM),hand grip strength, timed chair-stand test, walking speed and step length weremeasured at baseline.
+The Mini-mental state examination (MMSE) was administeredat baseline and 4 years later.
+
+
+MEASUREMENTS: Six probable frailty criteria were considered:weight loss, poor endurance, low physical activity, slowness, weakness, andcognitive impairment.
+The association of each component of frailty for IADL andADL disability as main outcomes was determined constructing multivariate logisticregression analyses.
+Final models were adjusted by socio-demographic factors andthe presence of the other five frailty components as covariates.
+
+
+MEASUREMENTS: Disease burdenand frailty were tabulated using 10-point scales (0 = healthy, 10 = unhealthy).Disease burden was the sum of measurements characterizing the vasculature, brain,kidneys, lungs, and glucose metabolism.
+Frailty was assessed using the frailtyindex reported by Fried.
+Multivariate linear models were used to determine theassociation between disease burden (predictor) and frailty (outcome).
+
+
+MEASUREMENTS: Datafrom interviews and a medical and oral examination.
+Oral health was measuredaccording to number of teeth (0, 1-9, 10-19, >/= 20).
+Fatigue was measured usingthe Avlund Mobility-Tiredness Scale on six mobility activities.
+Covariates, allmeasured at baseline, were sex, education, income, comorbidity, and smoking.RESULTS: Bivariate logistic regression analyses showed significantcross-sectional and longitudinal associations between number of teeth at age 70and onset of fatigue at 5- and 10- but not 15-year follow-up.
+The associationsbetween having no teeth and fatigue were attenuated when adjusted forsocioeconomic position and smoking.
+
+
+MEASUREMENTS: Primary endpoints werebody mass density and handgrip strength.
+Secondary endpoints were muscle powerand strength, mobility measures, body composition, verbal memory, mentalprocessing speed, anxiety, mood, and quality of life.
+
+
+MEASUREMENTS: Interviewer-assisted questionnaires to assess physicalactivity, health status, and mood were administered.
+Testosterone (T),luteinizing hormone (LH), follicle-stimulating hormone (FSH),dehydroepiandrosterone sulfate (DHEAS), and sex hormone-binding globulin (SHBG)were measured in a fasting morning blood sample.
+Frailty was assessed as an index(FI) according to the number (out of 43 possible) of health deficits (symptoms,signs, and functional impairments).
+Relationships between FI and hormone levels(as outcomes) were explored using regression models.
+
+
+MEASUREMENTS: Active lying-to-standing test monitored using acontinuous noninvasive BP monitor.
+For the morphological classification, fourorthostatic systolic BP variables were extracted (delta (baseline - nadir) andmaximum percentage of baseline recovered by 30 seconds and 1 and 2 minutes) usingthe 5-second averages method and entered in K-means cluster analysis (threeclusters).
+Main outcomes were OI, falls (>/=1 in past 6 months), and frailty(modified Fried criteria).
+
+
+MEASUREMENTS:Frailty status, assessed at 18-month intervals, was defined using a frailty index(FI) as the number of deficits in 36 health variables.
+Mobility was defined astime in seconds on the rapid gait test, in which participants walked back andforth over a 20-foot course as quickly as possible.
+Multistate transitionprobabilities were calculated with baseline frailty, mobility, age, and sexestimated using Poisson and logistic regressions in survivors and those who died,respectively.
+
+
+MEASUREMENTS:25(OH)D (liquid chromatography tandem mass spectroscopy) and frailty status(criteria similar to those used in the Cardiovascular Health Study) measured atbaseline; frailty status assessment repeated an average of 4.6 years later.Frailty status was classified as robust, intermediate, or frail at baseline androbust, intermediate, frail, or dead at follow-up.
+
+
+MEASUREMENTS: Trained interviewers collectedinformation on patient demographics, health conditions, frailty status, HRQOL,and survival.
+
+
+MEASUREMENTS: Clinically significant pain, as indicated by a reportthat the participant was "often troubled" by pain of at least moderate severity.RESULTS: The sample included 4703 decedents.
+Mean age (SD) of participants was75.7 years (SD, 10.8); 83.1% were white, 10.7% were black, 4.7% were Hispanic;and 52.3% were men.
+The adjusted prevalence of pain 24 months before death was26% (95% CI, 23% to 30%).
+The prevalence remained flat until 4 months beforedeath (28% [CI, 25% to 32%]), then it increased, reaching 46% (CI, 38% to 55%) inthe last month of life.
+The prevalence of pain in the last month of life was 60%among patients with arthritis versus 26% among patients without arthritis (P <0.001) and did not differ by terminal diagnosis category (cancer [45%], heartdisease [48%], frailty [50%], sudden death [42%], or other causes [47%]; P =0.195).
+
+
+MEASUREMENTS: Hormone levels, bone mineraldensity (BMD), bone turnover markers, body composition, upper and lower extremitystrength, physical performance.
+
+
+MEASUREMENTS: During a 4 year follow-up, women were contacted by telephoneevery 4 months to investigate the occurrence of falls.
+To minimize the memorybias, the specific questionnaire on falls was completed only if the fall tookplace in the week preceding the contact.
+A multiple correspondence analysisfollowed by clustering was carried out to identify the typology of falls.RESULTS: 727 women described at least one fall.
+A full description of 662 fallswas obtained during the follow-up period.
+In the multiple correspondence analysisthe main discriminant item was outside versus inside falls.
+Moreover, fourclusters were showed: outside falls linked to lack of attention (28% of women),outside falls related to exogenous/environmental factors (16%), inside fallsassociated with frailty (44%) and in height falls (11%).
+We also found that eachtype of falls was correlated with particular health or functional status(i.e.;dependence, motion difficulty, weakness, use of walking aid, ...).CONCLUSION: From frailty to hyperactivity there are different falls and fallersprofiles.
+Assessing such fall profiles could be helpful to develop new dedicatedfall prevention programs in the elderly.
+
+
+MEASUREMENTS: All participants underwent baselineassessment of purpose in life and detailed annual clinical evaluations todocument incident disability.
+
+
+MEASUREMENTS: BMD of hip,lumbar spine, and mid-radius; body composition; sex hormones, calcium-regulatinghormones; bone turnover markers; strength; physical performance; and safetyparameters.
+
+
+MEASUREMENTS:Potential frailty criteria examined at baseline (before the procedure) includedmeasures of balance, gait speed, cognition, self-reported health, body mass index(BMI), depressive symptoms, and living alone.
+The outcomes assessed over 1 yearwere dependency in activities of daily living (ADLs) and HRQL.
+
+
+MEASUREMENTS: The Tilburg Frailty Indicator (TFI), a self-reportquestionnaire, was used to collect information about determinants of frailty andto assess frailty and domains of frailty (physical, psychological, social).RESULTS: Results were obtained by regression and mediation analyses.
+The 10determinants explain about 35% of the variance of frailty.
+After controlling forother determinants, medium income, an unhealthy lifestyle, and multimorbiditypredicted frailty.
+The effects of other determinants differed across domains offrailty; age predicted physical frailty, life events predicted psychologicalfrailty, whereas being a woman predicted social frailty because older women havea higher probability of living alone.
+
+
+MEASUREMENTS:Baseline protein intake was estimated from the FFQ.
+Calibrated estimates ofenergy and protein intake were corrected for measurement error using regressioncalibration equations estimated from objective measures of total energyexpenditure (doubly labeled water) and dietary protein (24-hour urinarynitrogen).
+After 3 years of follow-up, frailty was defined as having at leastthree of the following components: low physical function (measured using theRand-36 questionnaire), exhaustion, low physical activity, and unintended weightloss.
+Multinomial logistic regression models estimated associations foruncalibrated and calibrated protein intake.
+
+
+MEASUREMENTS: A FI basedon data used for a Comprehensive Geriatric Assessment (CGA), the slope of therelationship between age and the FI-CGA, the limit value of the FI-CGA,mortality.
+
+
+MEASUREMENTS:Self-reported health information was used to construct a frailty index (FrailtyIndex) as a proportion of deficits accumulated in individuals.
+The main outcomemeasure was mortality.
+
+
+MEASUREMENTS: Physical frailty, based on four components(grip strength, timed walk, body composition, and fatigue), was assessed atbaseline, and cognitive function was assessed annually.
+Proportional hazardsmodels adjusted for age, sex, and education were used to examine the associationbetween physical frailty and the risk of incident MCI, and mixed effect modelswere used to examine the association between frailty and the rate of change incognition.
+
+
+MEASUREMENTS: Nutritional statuswas assessed using the Mini Nutritional Assessment (MNA), cognitive functionusing the Mini-Mental State Examination (MMSE) and HRQoL using the NottinghamHealth Profile (NHP).
+Questions covering physical, psychological and socialfactors that may have an impact on nutritional status were also posed.
+
+
+MEASUREMENTS: Self-reported sleepparameters (questionnaire); objective parameters of sleep-wake patterns(actigraphy data collected for an average of 5.2 nights); and objectiveparameters of sleep-disordered breathing, nocturnal hypoxemia, and periodic legmovements with arousals (PLMAs) (in-home overnight polysomnography).
+Frailtystatus was classified as robust, intermediate stage, or frail using criteriasimilar to those used in the Cardiovascular Health Study frailty index.
+
+
+MEASUREMENTS: Outcome was a frailty index (FI), based on 58potential deficits, with a theoretical range from 0 to 1; exposures wereindividual wealth and neighborhood deprivation (lack of local resources,financial and otherwise), based on a set of standard indicators.
+
+
+MEASUREMENTS: Functional decline and complete and partial recovery weredefined using a 0 to 6 scale of dependencies in activities of daily living (ADLs)evaluated every 6 months over 3 years.
+Complete recovery was defined as returningto baseline function (function at visit immediately preceding hospitalization)after functional decline; partial recovery was defined as any improvement in theADL scale after functional decline.
+Multiple logistic regression analysis wasused to determine predictors of functional decline.
+Kaplan-Meier curves estimatethe proportions recovering as a function of time since hospitalization.Discrete-time proportional hazards models regress the time-to-recovery hazards onthe predictor variables.
+
+
+MEASUREMENTS: Medicare administrative claims records matchedto the NH medical record data were used to measure procedures related to diabetesmellitus received in the year before NH admission and up to a year afteradmission (and before discharge).
+Procedures included glycosylated hemoglobin,fasting blood glucose, dilated eye examination, lipid profile, and serumcreatinine.
+
+
+MEASUREMENTS: Multisystem physiological dysregulation, or AL, wasassessed according to 13 biomarkers of cardiovascular, endocrine, immune, andmetabolic function.
+An AL score was computed as the total number of biomarkersfor which participant values fell into high-risk biomarker quartiles.
+Frailtystatus (not frail, intermediate frail, frail) was determined according to thetotal number of five indicators of frailty: weight loss, exhaustion, weak grip,slow gait, and low physical activity.
+The association between level of AL atbaseline and frailty status 3 years later was examined using ordinal logisticregression in 803 participants not frail at baseline.
+
+
+MEASUREMENTS: Frailty status was determined according to the presence ofweak handgrip strength, weight loss, slow walking speed, exhaustion, and lowactivity level and was classified as frail (> or =3 criteria), prefrail (1 or 2criteria), or robust (0 criteria).
+An oxidative stress marker (serum8-hydroxy-2'-deoxyguanosine, 8-OHdG), metabolic markers (body mass index,waist-hip ratio, serum lipids, glucose, and albumin), an inflammatory marker(serum high-sensitivity C-reactive protein, hs-CRP), demographic information, andcomorbidities (diabetes mellitus, hypertension, congestive heart failure,osteoarthritis, overweight or obesity, impaired fasting plasma glucose, renalinsufficiency, and depression) were assessed.
+
+
+MEASUREMENTS: Twopublished frailty indexes, recurrent falls, disability, overnighthospitalization, emergency department (ED) visits, chronic medical conditions,self-reported health, physical function, cognitive ability (including executivefunction), and depression.
+One index was developed from the Study of OsteoporoticFractures (SOF) and the other from the Cardiovascular Health Study (CHS).RESULTS: The SOF frailty index classified 77.1% as robust, 18.7% as prefrail, and4.2% as frail.
+The CHS frailty index classified 51.2% as robust, 38.8% asprefrail, and 10.0% as frail.
+Both frailty indexes (SOF; CHS) were similar intheir ability to predict key geriatric outcomes such as recurrent falls (hazardratio (HR)(frail)=2.2, 95% confidence interval (CI)=1.2-4.0; HR(frail)=1.9, 95%CI=1.2-3.1), overnight hospitalization (odds ratio (OR)(frail)=3.5, 95%CI=1.5-8.0; OR(frail)=4.4, 95% CI=2.4-8.2), ED visits (OR(frail)=3.5, 95%CI=1.4,8.8; OR(frail)=3.1, 95% CI=1.6-5.9), and disability (OR(frail)=5.4, 95%CI=2.3-12.3; OR(frail)=7.7, 95% CI=4.0-14.7), as well as chronic medicalconditions, physical function, cognitive ability, and depression.
+
+
+MEASUREMENTS: All participants wereinterviewed in their homes using the study protocol, which includes an abusescreen used in previous elder abuse studies and questions about demographic,social, physical, psychiatric, cognitive, and social services variables.
+
+
+MEASUREMENTS: The outcome measure was the presence of frailty, asdefined according to each frailty model.
+Covariates included chronic diseases andsociodemographic characteristics.
+
+
+MEASUREMENTS: Bilingual interviewers administered structuredquestionnaires and assessed physical measures of mobility and frailty(exhaustion, weight loss, walking speed, grip strength, and self-reportedphysical activity).
+Two items from the SF-36 questionnaire assessed painexperiences in the previous 4 weeks.
+
+
+MEASUREMENTS: High and low positive affect anddepressive symptoms were derived from the baseline 20-item Center forEpidemiologic Studies Depression Scale.
+Frailty was the development of three ormore indicators (weight loss, exhaustion, slow walking speed, or weak gripstrength) at the first or second follow-up interview.
+
+
+MEASUREMENTS:Smoking status was determined using a Self-Assessed Risk Factor Questionnaire.Comparisons were made between never smokers, light smokers and heavy smokers withheavy smokers defined as those who smoked >or= 1 pack per day for 20 years ormore.
+A frailty index (FI) generated from 40 self-reported health deficits wasalso modified to exclude 5 variables that could be directly attributed to smoking(e.g. cough).
+Decedent information was collected over 10 years.
+
+
+MEASUREMENTS: participants had measurement of frailty(weight loss, grip strength, sense of exhaustion, walking speed and physicalactivity) and serum DHEAS levels.
+
+
+MEASUREMENTS: Frailtywas defined as having at least three of the following criteria: weight loss,weakness, exhaustion, slowness, and low physical activity.
+Subjects meeting oneor two criteria were prefrail and those meeting none as nonfrail.
+The lowestquartile in the Mini-Mental State Examination (MMSE) and the Isaacs Set Test(IST) was used to identify subjects with cognitive impairment.
+The predictivevalidity of frailty for incident disability, hospitalization, dementia, and deathwas calculated first for frailty subgroups and then rerun after stratificationaccording to the presence or absence of cognitive impairment.
+
+
+MEASUREMENTS: Frailty status categorized as robust, intermediate stage, orfrail using the SOF index and criteria similar to those used in CHS index.
+Fallswere reported three times for 1 year.
+Disability (>or=1 new impairments inperforming instrumental activities of daily living) ascertained at 1 year.Fractures and deaths ascertained during 3 years of follow-up.
+Analysis of areaunder the receiver operating characteristic curve (AUC) statistics compared formodels containing the SOF index versus those containing the CHS index.
+
+
+MEASUREMENTS: Current ACE inhibitor usewas ascertained through direct inspection of medicine containers at baseline.Components of frailty were self-reported low physical function or impairedwalking, exhaustion, low physical activity, and unintended weight.
+Frailty wasascertained through self-reported and physical measurements data at baseline and3-year clinic contacts.
+
+
+MEASUREMENTS: To determine the association between typical antipsychoticuse and potential confounding factors we assessed five factors not measured inMedicare claims data but in the MCBS, i.e. body mass index, smoking, activitiesof daily living (ADL) score, cognitive impairment and Rosow-Breslau physicalimpairment scale.
+We estimated adjusted associations between these factors andantipsychotic use.
+Combined with literature estimates of the independent effectof confounders on death, we computed the extent of residual confounding caused bya failure to adjust for these factors.
+
+
+MEASUREMENTS:Electrocardiographic Holter recordings obtained over 2- to 3-hour periods wereprocessed for ApEn(HR) and HRV measures.
+ApEn(HR) is a nonlinear statistic thatquantifies the regularity of heart rate fluctuations over time.
+Lower ApEn(HR) ischaracteristic of heart rate time series containing a high proportion ofrepetitive patterns.
+Frailty was defined according to validated phenotypecriteria.
+
+
+MEASUREMENTS: An assessment of sevenpotential frailty criteria (slow gait speed, low physical activity, weight loss,exhaustion, weakness, cognitive impairment, and depressive symptoms) wascompleted at baseline and every 18 months for 72 months.
+Participants werefollowed with monthly telephone interviews for up to 96 months to determine theoccurrence of chronic disability, long-term nursing home (NH) stays, injuriousfalls, and death.
+
+
+MEASUREMENTS: Serum 25(OH) vitamin Dwas measured and patients were followed for a median of 7.1 years (range, 0.7 to9.3 years) to assess fractures.
+
+
+MEASUREMENTS: The primary dependent variable was time to firstadverse outcome, defined as repeat outpatient ED visit, hospital admission,nursing home admission, or death, within 30 days of the index ED visit.
+
+
+MEASUREMENTS: Frailty was defined byfive-component screening criteria that include weight, grip strength, endurance,physical activity and walking speed measurements and modeled as binary and3-level polytomous outcomes.
+Independent variables serum vitamin B6, vitamin B12,methylmalonic acid, total homocysteine, cystathionine and folate were modeledcontinuously and as abnormal versus normal.
+
+
+MEASUREMENTS: A phenotypic frailty index (PFI) was defined in thesame way as proposed in the CHS: assessing weight loss, exhaustion, low physicalactivity, slowness, and poor grip strength.
+A cumulative deficit index (DI) wasdefined based on 48 elderly deficits (signs, symptoms, impairments, diseases)included in the index, with equal weights.
+
+
+MEASUREMENTS: The 6-minute walkdistance and frailty phenotype were measured.
+The relationship between physicalmeasures of hormones and inflammatory mediators were examined.
+Linear and ordinallogistic regression analyses were performed for the physical measures.
+
+
+MEASUREMENTS: Disability was assessedduring monthly telephone interviews for nearly 8 years; physical frailty wasassessed during comprehensive home-based assessments at 18-month intervals.
+Theincidence of five disability subtypes was determined within the context of the18-month intervals in participants who were nondisabled at the start of theinterval: transient, short-term, long-term, recurrent, and unstable.
+
+
+MEASUREMENTSAND MAIN RESULTS: Approximately 67,000 AICDs and 178,000 PMs were implanted in2004 in the United States, increasing 60% and 19%, respectively, since 1997.After FDA approval in 2001, CRT-D and CRT-P reached 33,000 and 7,000 units peryear in the United States in 2004.
+About 70% of the patients were aged 65 yearsor older, and more than 75% of the patients had 1 or more comorbid diseases.There were substantial decreases in length of stay, but marked increases incharges, for example, the length of stay of AICD implantations halved (from 9.9days in 1997 to 5.2 days in 2004), whereas charges nearly doubled (from $66,000in 1997 to $117,000 in 2004).
+Rates of in-hospital mortality and complicationsfluctuated slightly during the period.
+Overall, adverse outcomes were associatedwith advanced age, comorbid conditions, and emergency admissions, and there wasno consistent volume-outcome relationship across different outcome measures andpatient groups.
+
+
+MEASUREMENTS: Geriatric conditions (cognitiveimpairment, falls, incontinence, low body mass index, dizziness, visionimpairment, hearing impairment) and dependency in activities of daily living(bathing, dressing, eating, transferring, toileting).
+
+
+MEASUREMENTS: Frailty was defined asthree or more of the following: sarcopenia (low appendicular skeletal massadjusted for height and body fat), weakness (grip strength), self-reportedexhaustion, low activity level, and slow walking speed.
+Prefrail men met one ortwo criteria; robust men had none.
+Follow-up averaged 4.7 years.
+
+
+MEASUREMENTS: A cumulative index of health and well-being deficiencies(disabilities, signs, diseases) was calculated as a count of deficits observed inan individual divided by the total number of all considered deficits.
+
+
+MEASUREMENTS: Frailty was determined using validated screeningcriteria.
+WBC counts and IL-6 levels were measured using standard laboratorymethods.
+Odds ratios (ORs) for frailty were evaluated across tertiles of baselineWBC counts and IL-6 levels, adjusting for age, race, education, body mass index,and smoking status.
+
+
+MEASUREMENTS: The frailty phenotype was defined as the presence ofthree or more of the following: weight loss, exhaustion, low physical activity,slowness, and weakness.
+Men were classified as frail (> or = 3 components),intermediate (1-2 components), and nonfrail (0 components).
+Whether total andfree T or sex hormone-binding globulin (SHBG) levels were associatedcross-sectionally with frailty and with degree of frailty was determined.Potential confounders such as age, chronic disease, lifestyle factors, diet, andphysical activity were considered.
+
+
+MEASUREMENTS: Bathing disability, defined as the inability towash and dry one's whole body without personal assistance, was assessed everymonth for up to 6 years, along with disability in dressing, transferring, andwalking.
+
+
+MEASUREMENTS: Data used in a logistic regression were obtainedthrough a gerontological evaluation of inpatients, conducted in the first week ofhospitalization.
+The center effect was considered in two models as a random andfixed effect.
+Two limits were used to define a prolonged hospital stay.
+The firstwas fixed at 30 days.
+The second was adjusted for Diagnosis Related Groupsaccording to the French classification (f-DRG).
+
+
+MEASUREMENTS: grip strength was used as a marker of sarcopaenia andmeasured using a Jamar dynamometer.
+HRQoL was assessed using the eight domainscores of the Short Form-36 (SF-36) questionnaire, and subjects in the lowestsex-specific fifth of the distribution were classified as having 'poor' statusfor each domain.
+
+
+MEASUREMENTS: Clinical andperformance-based measures and diagnostic data were extracted to correspond tothe 10 impairment domains and the single comorbidity domain of a CGA.
+Theproportion of deficits accumulated in each domain was calculated to yield theFI-CGA.
+The FI-CGA was validated and its predictive ability compared with otherfrailty measures.
+
+
+MEASUREMENTS: Mobility disability, defined as the inability to walkone quarter of a mile and to climb a flight of stairs, respectively withoutpersonal assistance, was assessed every month for up to 5 years.
+
+
+MEASUREMENTS: A frailty index was constructed as a proportion of allpotential deficits (symptoms, signs, laboratory abnormalities, disabilities)expressed in a given individual.
+Relative frailty is defined as a proportion ofdeficits greater than average for age.
+Measures of deficits differed across thecountries but included common elements.
+
+
+MEASUREMENTS: Interviews included information onsociodemographics, self-reports of medical conditions (arthritis, diabetesmellitus, heart attack, hip fracture, cancer, and stroke) and functional status.Weight and measures of lower and upper extremity muscle strength were obtainedalong with information on activities of daily living and instrumental activitiesof daily living.
+A summary measure of frailty was created based on weight loss,exhaustion, grip strength, and walking speed.
+Multivariable linear regressionidentified variables associated with frailty at baseline.
+Logistic regressionexamined variables predicting frailty at 1-year follow-up.
+
+
+MEASUREMENTS: At baseline and Week 8, each subject completed avideofluoroscopic swallowing evaluation for kinematic and bolus flow assessmentof swallowing.
+Swallowing pressures and isometric pressures were collected atbaseline and Weeks 2, 4, and 6.
+Four of the subjects also underwent oral magneticresonance imaging (MRI) to measure lingual volume.
+
+
+MEASUREMENTS: Activity-relatedfear of falling using the Activities-Specific Balance Confidence Scale (ABC) andthe Fall Efficacy Scale at baseline and every 4 months for 1 year.
+Demographics,time to first fall and all subsequent falls, functional measures, Centers forEpidemiologic Studies Depression Scale, medication use, level of physicalactivity, comorbidities, and adherence to interventions.
+
+
+MEASUREMENTS: Components of frailty included self-reported muscleweakness/impaired walking, exhaustion, low physical activity, and unintendedweight loss between baseline and 3 years of follow-up.
+Death, hip fractures, ADLdisability, and hospitalizations were ascertained during an average of 5.9 yearsof follow-up.
+
+
+MEASUREMENTS: Thedependent variables were the frailty syndrome, including prefrailty, defined aspresence of one or two of five frailty indicators (weakness, slowness, weightloss, low physical activity, exhaustion), and frailty, defined as three or moreindicators.
+Independent variables included BMI, categorized using World HealthOrganization criteria as normal (18.5 to <25 kg/m(2)), overweight (25 to <30kg/m(2)), and obese (>/=30 kg/m(2)); chronic diseases; C-reactive protein; andserum carotenoids.
+
+
+MEASUREMENTS: Outcome measures were depression symptoms, anxiety, spiritualwell-being, and death-related emotional distress.
+
+
+MEASUREMENTS: The outcome measure was the odds ofhospitalization in the last 90 days of life.
+A variable reflecting a nursinghome's proportion of African American residents (in 1995-1996) represented anursing home's racial mix.
+
+
+MEASUREMENTS: Dependentvariable was self-report of moderate to severe regional hip pain in the weekpreceding the baseline interview.
+Independent variables were self-reporteddemographic information, health characteristics, and activity of daily living(ADL) function; Yesavage Mood Score (YMS); 36-item Short Form percentile scores;and objective measurements of lower extremity strength, range of motion, balance,and gait.
+
+
+MEASUREMENTS: A standard CGA form thataccounts for impairment, disability, and comorbidity burden was scored and summedas a frailty index (FI-CGA).
+The FI-GCA was stratified to describe three levelsof frailty.
+Patients were followed for up to 12 months to determine how well theindex predicted adverse outcomes (institutionalization or mortality, whichevercame first).
+
+
+MEASUREMENTS:Clinical data were used to calculate Pneumonia Severity Index (PSI), BarthelIndex (BI), Charlson Comorbidity Index, and Hospital Admission Risk Profile(HARP).
+Patients were then assessed 15 days later to determine functional declineand 30 days and 18 months later for mortality and readmission.
+Multiple logisticregression was used to analyze outcomes.
+
+
+MEASUREMENTS: Literature review and structured group processeswith experts, clinicians, and consumers were used to generate an initial list ofdomains and indicators.
+Structured interviews with clinical experts in the areaof frailty were used to establish relevance and feasibility of measurement ofdomains.
+Interrater reliability was assessed through a Web-based study.Geriatricians pilot tested the feasibility of the baseline CGIC-PF with 10patients.
+
+
+MEASUREMENTS: Plasma tonicity was estimated fromplasma glucose, sodium, and potassium measures and used to classify subjects asnormo- (285-294 mOsm/L) or hypertonic (> or =300 mOsm/L).
+Disability was definedas any impairment on the Rosow-Breslau, activity of daily living (ADL), andinstrumental activity of daily living (IADL) scales.
+The relative risk (RR) ofany new disability and relative hazard of death associated with hypertonicitywere estimated using logistic regression models and Cox proportional hazardsmodels, respectively.
+All models were controlled for age, sex, race, weightstatus, current smoking, activity level, plasma blood urea nitrogen andcreatinine, cognitive impairment, depression, and chronic disease status.
+Todetermine whether observed effects were attributable to plasma glucose alone, allmodels were repeated on a subsample of nondiabetic, normoglycemic subjects.RESULTS: Plasma hypertonicity (observed in 15% of subjects) was associated withincreased risk of new Rosow-Breslau (RR=2.1, 95% confidence interval(CI)=1.2-3.6), IADL (RR=2.3, 95% CI=1.2-4.3), and ADL (RR=2.7 95% CI=1.3-5.6)disability by 1996 and mortality by 2000 (RR=1.4, 95% CI=1.0-1.9).
+Results weresimilar for the normoglycemic subgroup (ADL: RR=2.9, 95% CI=1.0-8.0; IADL:RR=2.5, 95% CI=1.0-6.3; Rosow-Breslau: RR=1.8, 95% CI=0.8-3.9; mortality: RR=1.5,95% CI=0.9-2.3).
+
+
+MEASUREMENTS: The output of anANN model was compared with an unweighted frailty index in predicting survivalpatterns using receiver operating characteristic (ROC) curves.
+
+
+MEASUREMENTS: Thepredictor was UI, and the outcomes were death, nursing home admission, ADLdecline, and IADL decline.
+Potential confounders considered were comorbidconditions, baseline function, sensory impairment, cognition, depressivesymptoms, body mass index, smoking and alcohol, demographics, and socioeconomicstatus.
+
+
+MEASUREMENTS: At baseline, serumalbumin and total cholesterol were measured.
+At baseline and 3 years later,decline in functional status was measured with three performance tests (chairstand, 3-metre walk, putting on and taking off a cardigan).
+Associations wereadjusted for age, life-style and health-related factors.
+
+
+MEASUREMENTS:Biomedical (strength, flexibility, cardiovascular endurance, body composition),functional instrumental activities of daily living (IADL), and psychosocialwell-being (Center for Epidemiological Studies for Depression scale, fear offalling questionnaire, self-perception of present and future health, masteryindex, perceived quality of sleep, and intrusiveness) variables.
+
+
+MEASUREMENTS: Demographiccharacteristics, OAT products used, reasons for use, and influencing factorsleading to use.
+
+
+MEASUREMENTS: Demographics, time to first fall and allsubsequent falls, functional measures, Sickness Impact Profile, Centers forEpidemiologic Studies-Depression Scale, Activities-specific Balance ConfidenceScale, Falls Efficacy Scales, and adherence to interventions.
+
+
+MEASUREMENTS: Vital status data were available for 1992-95.The hazard ratios of dying for subjects in the second, third, and fourthquartiles compared with the first quartile of TC were computed using Coxproportional hazards, adjusting for lifestyle factors, anthropomorphic andbiochemical measures, preexisting medical conditions, and frailty indicators.RESULTS: Blood samples were obtained from 3,295 (73%) of the participants, ofwhom 399 died during almost 3 years of follow-up.
+Low TC was associated with ahigher risk of death.
+Those with TC in the second, third, and fourth quartiles(TC>189 mg/dL or 4.90 mmol/L) had lower hazard ratios (HRs) of death thansubjects in the first quartile (0.57, 95% confidence interval (CI) = 0.38-0.87;0.56, 95% CI = 0.36-0.88; and 0.53, 95% CI = 0.33-0.84, respectively).
+Fewsubjects taking lipid-lowering drugs (LLDs) were in the lowest quartile ofcholesterol, suggesting that these individuals have low TC values for reasonsother than LLD use.
+
+
+MEASUREMENTS:Changes in BMD and body composition.
+
+
+MEASUREMENTS: The primary endpoints were physical health according to theshort-form health survey at 3 months and falls over 6 months.
+Physicalperformance and self-rated function were secondary endpoints.
+Assessments tookplace in the participants' homes at 3 and 6 months after randomization and wereperformed by blinded assessors.
+
+
+MEASUREMENTS: MDS2.0 assessments done as part of normal practice mainly by registered nurses ormultidisciplinary teams in a chronic hospital.
+Mortality data are available fromthe accompanying discharge tracking form.
+
+
+MEASUREMENTS: For each suspected ADR atadmission, a physician, who coded description, severity, and potentiallyresponsible drugs, completed a questionnaire.
+
+
+MEASUREMENTS: Modified PPT score, VO2 peak,performance of ADLs as measured by the Older Americans Resources and Servicesinstrument, and the Functional Status Questionnaire (FSQ).
+
+
+MEASUREMENTS: Fat-free soft tissue mass, body fatmass, and bone mineral density were measured using dual-energy x-rayabsorptiometry.
+Study participants were assessed for cognitive impairment usingthe Short Portable Mental Status Questionnaire and divided into two groupsaccording to their scores.
+Logistic regression models were used to calculatemultivariate-adjusted differences in body composition between two groups ofsubjects according to their cognitive function.
+
+
+MEASUREMENTS: Frailty status was determined using arecently validated screening tool that consists of weight loss, fatigue, lowlevels of physical activity, and measurements of grip strength and walking speed.Serum interleukin-6 (IL-6) was measured using enzyme-linked immunosorbent assay,and standard complete blood count was performed using a Coulter counter.
+
+
+MEASUREMENTS: We classified decedents intogroups representing four trajectories at the end of life: sudden death, terminalillness, organ failure, and frailty.
+
+
+MEASUREMENTS: Plasma lipids andlipoproteins, cholesteryl ester transfer protein mass, apo E phenotype, body massindex, nutritional indices (serum albumin, prealbumin, transferrin), dietaryintake, inflammation markers (C-reactive protein (CRP), interleukin-6 (IL-6)),activities of daily living, and cognitive function.
+
+
+MEASUREMENTS: Measures of efficiency included the number ofpersons screened for each participant randomized, the number of persons eligiblefor each participant randomized, and the refusal rate.
+Costs were calculated perrandomized participant.
+
+
+MEASUREMENTS: The questionnaire included a clock-drawing task: apredrawn circle 3 1/4 inches (8.3 cm) in diameter was provided with instructions"In the circle below, draw in the numbers as on a clock face.
+Make no erasures."Clocks were scored on 7 items: all numbers 1-12 present without adding extra oromitting numbers, sequencing of numbers, position of numbers, orientation ofnumbers to circle, consistent number style (either Arabic or Roman), tilt ofnumbers, and superfluous marks.
+A total clock score was calculated by summing thenumber of correct individual items (0-7).
+We also classified individuals ascognitively impaired by a previously suggested method: individuals were affectedif they did not have three numbers drawn in the upper left quadrant of the clockface.
+
+
+MEASUREMENTS: Detailed assessmentat enrollment to ascertain prefracture status through interviews with the patientand designated proxy and review of the medical record.
+Interviews includedadministration of standardized instruments (Activities of Daily Living (ADL)Scale, Blessed Dementia Rating Scale, Delirium Symptom Interview) and assessmentof ambulation, and prefracture living situation.
+Medical comorbidity, the natureof the hip fracture, and the surgical repair were obtained from the medicalrecord.
+All subjects underwent daily interviews for the duration of thehospitalization, including the Mini-Mental State Examination and Delirium SymptomInterview, and delirium was diagnosed using the Confusion Assessment Methodsalgorithm.
+Patients and proxies were recontacted 1 and 6 months after fracture,and underwent interviews similar to those at enrollment to determine death,persistent delirium, decline in ADL function, decline in ambulation, or newnursing home placement.
+
+
+MEASUREMENTS: Hand grip strength was measured using adynamometer.
+Depressive symptoms were studied using an 11-item version of Centerfor Epidemiologic Studies Depression Scale with 9 as a cutoff.
+Body weightcategories were formed on the basis of body mass index (BMI) (BMI =weight/height2; underweight: BMI < 20; normal weight: BMI 20-24.99, overweight:BMI > or = 25).
+MAIN RESULTS: At baseline, 9.4% of the participants were rated ashaving depressed mood.
+The mean individual strength change over 3 years was -6.9% (standard deviation 14.0).
+Steep strength decline was determined as losing >or = 14% (lowest quartile).
+The proportions of those with steep strength declinein the groups based on combined distributions of BMI and depressed mood were:underweight/ depressed (n = 22) 41%, underweight/not depressed (n = 200) 28%,normal weight/depressed (n = 127) 30%, normal weight/not depressed (n = 1181)25%, overweight/depressed (n = 55) 31%, overweight/not depressed (n = 675,referent) 21%.
+After adjusting for baseline strength, age, height,sociodemographic variables and diseases, the odds ratio for steep strengthdecline was more than four times greater among those who were depressed andunderweight, and twice as great among people who were depressed and normal weightcompared with those who were nondepressed and overweight.
+The risks ofnondepressed under- and normal weight people and depressed overweight people didnot differ from the reference group.
+
+
+MEASUREMENTS: Multidimensional FunctionalAssessment: The OARS methodology RESULTS: Percent agreement on the ADL itemsranged from 97.6% on personal hygiene to 99.7% for toileting, with moderate kappacoefficients.
+IADL percent agreement ranged from 71.5 to 93.7%, with fair tomoderate kappa coefficients.
+Agreement among the medical history items rangedfrom 76.3 to 98.5% (kappa = .138-.831).
+Response bias for the IADL compositemeasure is influenced marginally by caregiver burden (F[259] = 1.751, P = .098).Five of the individual IADL bias items are influenced significantly by burden,such that an increase in burden results in a greater likelihood that thecaregiver will overstate disability compared with the rating by the older person.Response bias on the ADL scale was increased among persons who experienced morecaregiver burden (OR = 1.096, 95% CI = 1.000, 1.192) and those who spent morehours providing care (OR = 1.012, 95% CI = 1.001, 1.024).
+Additionally, blackcaregivers were more likely than white caregivers to disagree with the olderpeople on the ADL scale (OR = 2.73, 95% CI = 1.642, 3.809).
+A composite of themedical history items is influenced by the relationship of the caregiver to theolder person; bias is more likely among adult children ((F[227] = 1.56, P =.081).
+
+
+MEASUREMENTS: Timed Up & Go(TUG), i.e., the time taken to rise from an armchair, walk 3 meters, turn round,and sit down again.
+TUG was repeated with an added manual task (TUGmanual), whichwas to carry a glass of water while walking.
+The Montgomery-Asberg DepressionRating Scale, Barthel Index, Functional Reach, Mini-Mental State Examination, andLine Bisection test were used to assess for frailty.
+The subjects werefollowed-up prospectively regarding falls indoors for a period of 6-months.RESULTS: Subjects with a time difference (diffTUG) between TUGmanual and TUG of >or = 4.5 seconds were considered to be distracted by the second task.
+Tensubjects had a difference in time of > or = 4.5 seconds.
+These subjects were morefrail, and seven of them fell indoors during the follow-up period (odds ratio4.7, 95%Confidence Interval (CI) 1.5-14.2).
+
+
+MEASUREMENTS: Self-reported warfarin use, bone mineraldensity at the hip and the heel, hip bone loss over 2 years, and fractures during3.5 years of follow-up.
+Analyses were adjusted for baseline differences, age,weight, and estrogen use.
+
+
+MEASUREMENTS: Data on demographics, outpatient health servicesutilization, categories of outpatient utilization and disease diagnoses wereobtained from membership lists or medical chart review; inpatient utilization,including admitting and discharge diagnosis, length of stay, and number ofhospital days was assessed from computerized hospitalization records.
+
+
+MEASUREMENTS: In 1988, participants were interviewedabout their health status and had blood samples taken.
+Mortality follow-up wasthrough 1992.
+
+
+MEASUREMENTS AND MAIN RESULTS: Among the cohort of3782 residents, 931 (25%) were hospitalized at least once during the second 6months of their nursing home stay.
+In a logistic regression model, severefunctional impairment (adjusted odds ratio (AOR) 1.20, 95% confidence interval(CI) 1.01, 1.43), worsening ADL self-performance (AOR 1.22, 95% CI 1.04, 1.43),presence of a decubitus ulcer (AOR 1.62, 95% CI 1.17, 2.24), presence of afeeding tube (AOR 2.03, 95% CI 1.54, 2.67), primary diagnosis of congestive heartfailure (AOR 1.61, 95% CI 1.11, 2.34), and primary diagnosis of respiratorydisease (AOR 1.77, 95% CI 1.24, 2.54) were associated with hospitalization.
+Noform of advance directive was associated with a lower rate of hospitalization.CONCLUSIONS: Physically frail patients, who may be the least likely to benefitfrom hospitalization, are the most likely to be hospitalized.
+The lack of anassociation between "Do not-hospitalize" orders and lower rates ofhospitalization suggests that there are substantial barriers to providing acutecare in the nursing home.
+The association between recent functional decline,primary diagnoses of congestive heart failure and respiratory disease, andhospitalization indicates, however, that certain patient groups may be targetedsuccessfully to reduce hospitalization rates.
+
+
+MEASUREMENTS: IADLwas the dependent variable; gait velocity, balance function, grip strength andchair rise time were the predictor variables.
+Age, gender, education, fallsself-efficacy, and cognitive status were covariates.
+
+
+MEASUREMENTS: Healthstatus, preventive health activities, health services utilization, and risks forprogressive frailty were assessed by self report and observation using wellvalidated, standardized instruments.
+Whenever possible, comparison data werederived from national datasets, original samples used to validate the measures,and other useful comparison groups.
+
+
+MEASUREMENT:Endurance, speed, and injury risk measures relevant to walking, wheelchairpropulsion, and standing were assessed by standardized protocols.
+Rowingendurance, rowing range of motion, and handgrip strength measures were collectedto assess the effect of the rowing component of the exercise protocol.
+
+
+MEASUREMENTS: Biomedical (strength, flexibility, cardiovascular endurance,body composition), functional (IADL), and psychosocial well-being (CES-D scale,fear of falling questionnaire, self-perception of present and future health,mastery index, perceived quality of sleep, and intrusiveness) variables.
+
+
+MEASUREMENTS: We compared the number oftreatment episodes for symptomatic bacteriuria between groups randomized toreceive either clean or sterile intermittent catheterization.
+Laboratory analysisof blood and urine was done on predetermined days.
+Control variables wereresearch site and patient history of urinary tract infection within the last 6months.
+A cost comparison of nursing time and equipment usage for the twocatheterization techniques was also performed.
+
+
